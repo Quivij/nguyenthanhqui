@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trợ Lý Mua Sắm Điện Thoại</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <style>
+        .chat-bubble {
+            border-radius: 20px;
+            padding: 10px 15px;
+            max-width: 80%;
+            margin-bottom: 10px;
+        }
+        .user-bubble {
+            background-color: #e2f5fe;
+            margin-left: auto;
+            border-bottom-right-radius: 5px;
+        }
+        .bot-bubble {
+            background-color: #f0f0f0;
+            margin-right: auto;
+            border-bottom-left-radius: 5px;
+        }
+        .products-container {
+            overflow-x: auto;
+            white-space: nowrap;
+            scrollbar-width: thin;
+        }
+        .product-card {
+            display: inline-block;
+            width: 280px;
+            margin-right: 15px;
+            vertical-align: top;
+            white-space: normal;
+        }
+        .typing-indicator {
+            display: inline-block;
+            width: 20px;
+            height: 10px;
+            position: relative;
+        }
+        .typing-indicator span {
+            height: 10px;
+            width: 10px;
+            float: left;
+            margin: 0 1px;
+            background-color: #9e9ea1;
+            display: block;
+            border-radius: 50%;
+            opacity: 0.4;
+        }
+        .typing-indicator span:nth-of-type(1) {
+            animation: 1s blink infinite 0.3333s;
+        }
+        .typing-indicator span:nth-of-type(2) {
+            animation: 1s blink infinite 0.6666s;
+        }
+        .typing-indicator span:nth-of-type(3) {
+            animation: 1s blink infinite 0.9999s;
+        }
+        @keyframes blink {
+            50% {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <header class="text-center mb-8">
+            <h1 class="text-3xl font-bold text-blue-600">Trợ Lý Mua Sắm Điện Thoại</h1>
+            <p class="text-gray-600 mt-2">Hỏi đáp thông tin điện thoại di động mới nhất</p>
+        </header>
+
+        <div class="flex flex-col md:flex-row gap-6">
+            <!-- Chat Section -->
+            <div class="w-full md:w-2/3 bg-white rounded-lg shadow-md overflow-hidden flex flex-col">
+                <div id="chat-messages" class="p-4 flex-grow overflow-y-auto" style="height: 500px;">
+                    <div class="bot-bubble chat-bubble">
+                        <p>Xin chào! Tôi là trợ lý mua sắm điện thoại. Tôi có thể giúp bạn tìm thông tin về các loại điện thoại, so sánh giá cả, và đưa ra gợi ý phù hợp với nhu cầu của bạn.</p>
+                        <p class="mt-2">Bạn có thể hỏi tôi như:</p>
+                        <ul class="list-disc list-inside mt-1 text-gray-700">
+                            <li>Điện thoại nào có camera tốt nhất dưới 10 triệu?</li>
+                            <li>So sánh iPhone 14 Pro và Samsung S23</li>
+                            <li>Điện thoại màu đỏ nào đang có khuyến mãi?</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div id="products-section" class="p-4 border-t border-gray-200 hidden">
+                    <h3 class="font-medium text-gray-700 mb-2">Sản phẩm gợi ý:</h3>
+                    <div id="products-container" class="products-container pb-2"></div>
+                </div>
+                
+                <div class="border-t border-gray-200 p-4">
+                    <form id="chat-form" class="flex gap-2">
+                        <input 
+                            type="text" 
+                            id="user-input" 
+                            class="flex-grow rounded-full border border-gray-300 px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500" 
+                            placeholder="Nhập câu hỏi của bạn..."
+                            required
+                        >
+                        <button 
+                            type="submit" 
+                            class="bg-blue-600 text-white rounded-full px-6 py-2 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                        >
+                            Gửi
+                        </button>
+                    </form>
+                </div>
+            </div>
+            
+            <!-- Tips Section -->
+            <div class="w-full md:w-1/3">
+                <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+                    <h2 class="text-xl font-semibold text-gray-800 mb-4">Mẹo tìm kiếm</h2>
+                    <ul class="space-y-3 text-gray-700">
+                        <li class="flex items-start">
+                            <span class="text-blue-600 mr-2">•</span>
+                            <span>Hãy nêu rõ nhu cầu và ngân sách của bạn</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-blue-600 mr-2">•</span>
+                            <span>Đặt câu hỏi cụ thể như "điện thoại pin trâu dưới 5 triệu"</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-blue-600 mr-2">•</span>
+                            <span>Có thể chỉ định thương hiệu và màu sắc ưa thích</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-blue-600 mr-2">•</span>
+                            <span>Hỏi về các khuyến mãi hiện có</span>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="bg-blue-50 rounded-lg shadow-md p-6">
+                    <h2 class="text-xl font-semibold text-blue-800 mb-4">Về trợ lý</h2>
+                    <p class="text-gray-700 mb-3">
+                        Trợ lý được xây dựng với công nghệ AI từ Google Gemini, giúp bạn tìm kiếm và so sánh các mẫu điện thoại thông minh dễ dàng.
+                    </p>
+                    <p class="text-gray-700">
+                        Dữ liệu được cập nhật thường xuyên để đảm bảo các thông tin giá cả và cấu hình luôn chính xác.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // DOM elements
+        const chatForm = document.getElementById('chat-form');
+        const userInput = document.getElementById('user-input');
+        const chatMessages = document.getElementById('chat-messages');
+        const productsSection = document.getElementById('products-section');
+        const productsContainer = document.getElementById('products-container');
+        
+        // State variables
+        let conversationId = null;
+        
+        // Handle form submission
+        chatForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const query = userInput.value.trim();
+            if (!query) return;
+            
+            // Add user message to chat
+            addMessage('user', query);
+            
+            // Clear input field
+            userInput.value = '';
+            
+            // Add typing indicator
+            const typingIndicator = addTypingIndicator();
+            
+            try {
+                // Send request to API
+                const response = await fetch('/api/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        query,
+                        conversation_id: conversationId
+                    }),
+                });
+                
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                
+                const data = await response.json();
+                
+                // Update conversation ID
+                conversationId = data.conversation_id;
+                
+                // Remove typing indicator
+                typingIndicator.remove();
+                
+                // Add bot response
+                addMessage('bot', data.response);
+                
+                // Update product section
+                updateProductSection(data.products);
+                
+            } catch (error) {
+                console.error('Error:', error);
+                typingIndicator.remove();
+                addMessage('bot', 'Xin lỗi, đã xảy ra lỗi khi xử lý yêu cầu của bạn. Vui lòng thử lại.');
+            }
+        });
+        
+        // Add message to chat
+        function addMessage(sender, text) {
+            const bubble = document.createElement('div');
+            bubble.className = `${sender}-bubble chat-bubble`;
+            bubble.innerHTML = text.replace(/\n/g, '<br>');
+            chatMessages.appendChild(bubble);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+        
+        // Add typing indicator
+        function addTypingIndicator() {
+            const bubble = document.createElement('div');
+            bubble.className = 'bot-bubble chat-bubble';
+            bubble.innerHTML = '<div class="typing-indicator"><span></span><span></span><span></span></div>';
+            chatMessages.appendChild(bubble);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+            return bubble;
+        }
+        
+        // Update product section
+        function updateProductSection(products) {
+            if (!products || products.length === 0) {
+                productsSection.classList.add('hidden');
+                return;
+            }
+            
+            productsSection.classList.remove('hidden');
+            productsContainer.innerHTML = '';
+            
+            products.forEach(product => {
+                const card = document.createElement('div');
+                card.className = 'product-card bg-white border border-gray-200 rounded-lg shadow-sm overflow-hidden';
+                
+                card.innerHTML = `
+                    <div class="p-4">
+                        <h3 class="font-medium text-blue-800 mb-1 truncate" title="${product.title}">${product.title}</h3>
+                        <p class="text-red-600 font-bold">${formatPrice(product.price)} VND</p>
+                        <p class="text-gray-600 text-sm mt-2 truncate" title="${product.specs}">${product.specs}</p>
+                        <div class="mt-2 text-sm">
+                            <span class="inline-block bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">${product.color}</span>
+                        </div>
+                        <p class="text-green-600 text-xs mt-2">${product.promotion || 'Không có khuyến mãi'}</p>
+                        <a href="${product.url}" target="_blank" class="block text-center bg-blue-600 text-white rounded mt-3 py-1 text-sm hover:bg-blue-700">Xem chi tiết</a>
+                    </div>
+                `;
+                
+                productsContainer.appendChild(card);
+            });
+        }
+        
+        // Format price with thousand separator
+        function formatPrice(price) {
+            return price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+        }
+    </script>
+</body>
+</html>

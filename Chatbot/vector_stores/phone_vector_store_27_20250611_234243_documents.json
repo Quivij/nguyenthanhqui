@@ -1,0 +1,26 @@
+[
+  {
+    "text": "iPhone 16 Pro - iPhone 16 Pro mang đến hiệu năng mạnh mẽ, thiết kế titan sang trọng và nhiều nâng cấp về camera. - Brand: Apple - Category: smartphone  Variant: Color: Titan Đen - Storage: 128GB - Price: 29,990,000 VND - Stock: 32 - Sold: 8 Variant: Color: Titan Sa Mạc - Storage: 256GB - Price: 33,990,000 VND - Stock: 33 - Sold: 2 Variant: Color: Titan Tự Nhiên - Storage: 512GB - Price: 40,990,000 VND - Stock: 25 - Sold: 0 Variant: Color: Titan Trắng - Storage: 1TB - Price: 47,990,000 VND - Stock: 20 - Sold: 0  screen: 6.3 inch Super Retina XDR OLED, ProMotion 120Hz - os: iOS 18 - cpu: Apple A18 Pro - ram: 12GB - battery: 4300mAh, sạc nhanh 35W - camera: Triple 48MP + 12MP + 12MP, camera trước 24MP -",
+    "metadata": {
+      "id": "6818f31a202a99f6ada1a9ae",
+      "name": "iPhone 16 Pro",
+      "slug": "iphone-16-pro",
+      "description": "iPhone 16 Pro mang đến hiệu năng mạnh mẽ, thiết kế titan sang trọng và nhiều nâng cấp về camera.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Titan Đen",
+          "storage": "128GB",
+          "price": 29990000,
+          "images": [
+            "/uploads/products/1746607772239-23221802.jpeg",
+            "/uploads/products/1746607772239-43997214.jpeg",
+            "/uploads/products/1746607772240-63448535.jpeg",
+            "/uploads/products/1746607772240-49989076.jpeg",
+            "/uploads/products/1746607772241-5261502.jpeg",
+            "/uploads/products/1746607772243-60027324.jpeg"
+          ],
+          "stock": 32,
+          "sold": 8,
+          "_id": 

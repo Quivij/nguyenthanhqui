@@ -1,0 +1,1784 @@
+[
+  {
+    "text": "iPhone 16 Pro - iPhone 16 Pro mang đến hiệu năng mạnh mẽ, thiết kế titan sang trọng và nhiều nâng cấp về camera. - Brand: Apple - Category: smartphone  Variant: Color: Titan Đen - Storage: 128GB - Price: 29,990,000 VND - Stock: 32 - Sold: 8 Variant: Color: Titan Sa Mạc - Storage: 256GB - Price: 33,990,000 VND - Stock: 33 - Sold: 2 Variant: Color: Titan Tự Nhiên - Storage: 512GB - Price: 40,990,000 VND - Stock: 25 - Sold: 0 Variant: Color: Titan Trắng - Storage: 1TB - Price: 47,990,000 VND - Stock: 20 - Sold: 0  screen: 6.3 inch Super Retina XDR OLED, ProMotion 120Hz - os: iOS 18 - cpu: Apple A18 Pro - ram: 12GB - battery: 4300mAh, sạc nhanh 35W - camera: Triple 48MP + 12MP + 12MP, camera trước 24MP -",
+    "metadata": {
+      "id": "6818f31a202a99f6ada1a9ae",
+      "name": "iPhone 16 Pro",
+      "slug": "iphone-16-pro",
+      "description": "iPhone 16 Pro mang đến hiệu năng mạnh mẽ, thiết kế titan sang trọng và nhiều nâng cấp về camera.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Titan Đen",
+          "storage": "128GB",
+          "price": 29990000,
+          "images": [
+            "/uploads/products/1746607772239-23221802.jpeg",
+            "/uploads/products/1746607772239-43997214.jpeg",
+            "/uploads/products/1746607772240-63448535.jpeg",
+            "/uploads/products/1746607772240-49989076.jpeg",
+            "/uploads/products/1746607772241-5261502.jpeg",
+            "/uploads/products/1746607772243-60027324.jpeg"
+          ],
+          "stock": 32,
+          "sold": 8,
+          "_id": "681b1e9cb728e65023f2ccb4"
+        },
+        {
+          "color": "Titan Sa Mạc",
+          "storage": "256GB",
+          "price": 33990000,
+          "images": [
+            "/uploads/products/1746607772244-36985680.jpeg",
+            "/uploads/products/1746607772246-76824462.jpeg",
+            "/uploads/products/1746607772247-8229417.jpeg",
+            "/uploads/products/1746607772247-61891166.jpeg",
+            "/uploads/products/1746607772248-77196399.jpeg",
+            "/uploads/products/1746607772248-12755280.jpeg"
+          ],
+          "stock": 33,
+          "sold": 2,
+          "_id": "681b1e9cb728e65023f2ccb5"
+        },
+        {
+          "color": "Titan Tự Nhiên",
+          "storage": "512GB",
+          "price": 40990000,
+          "images": [
+            "/uploads/products/1746607772249-39446407.jpeg",
+            "/uploads/products/1746607772249-9555510.jpeg",
+            "/uploads/products/1746607772249-43241394.jpeg",
+            "/uploads/products/1746607772249-53764796.jpeg",
+            "/uploads/products/1746607772252-50214700.jpeg",
+            "/uploads/products/1746607772252-6930900.jpeg"
+          ],
+          "stock": 25,
+          "sold": 0,
+          "_id": "681b1e9cb728e65023f2ccb6"
+        },
+        {
+          "color": "Titan Trắng",
+          "storage": "1TB",
+          "price": 47990000,
+          "images": [
+            "/uploads/products/1746607772254-52132380.jpeg",
+            "/uploads/products/1746607772254-28225384.jpeg",
+            "/uploads/products/1746607772255-19397103.jpeg",
+            "/uploads/products/1746607772255-93247659.jpeg",
+            "/uploads/products/1746607772255-85295943.jpeg",
+            "/uploads/products/1746607772256-56580270.jpeg"
+          ],
+          "stock": 20,
+          "sold": 0,
+          "_id": "681b1e9cb728e65023f2ccb7"
+        }
+      ],
+      "specifications": {
+        "screen": "6.3 inch Super Retina XDR OLED, ProMotion 120Hz",
+        "os": "iOS 18",
+        "cpu": "Apple A18 Pro",
+        "ram": "12GB",
+        "battery": "4300mAh, sạc nhanh 35W",
+        "camera": "Triple 48MP + 12MP + 12MP, camera trước 24MP"
+      },
+      "sold": 10,
+      "ratings": [],
+      "created_at": "2025-05-05T17:19:22.833000",
+      "updated_at": "2025-06-10T16:42:04.033000"
+    }
+  },
+  {
+    "text": "iPhone 16 Pro Max - iPhone 16 Pro Max với thiết kế mới, hiệu năng vượt trội và camera cải tiến. - Brand: Apple - Category: smartphone  Variant: Color: Titan Sa Mạc - Storage: 256GB - Price: 34,990,000 VND - Stock: 47 - Sold: 3 Variant: Color: Titan Tự Nhiên - Storage: 512GB - Price: 41,990,000 VND - Stock: 29 - Sold: 1 Variant: Color: Titan Trắng - Storage: 1TB - Price: 48,990,000 VND - Stock: 20 - Sold: 0 Variant: Color: Titan Đen - Storage: 256GB - Price: 30,790,000 VND - Stock: 15 - Sold: 0  screen: 6.9 inch Super Retina XDR OLED, 120Hz - os: iOS 18 - cpu: Apple A18 Pro - ram: 12GB - battery: 4500mAh, sạc nhanh 35W - camera: Triple 48MP + 12MP + 12MP, camera trước 24MP -",
+    "metadata": {
+      "id": "6818f37a202a99f6ada1aa06",
+      "name": "iPhone 16 Pro Max",
+      "slug": "iphone-16-pro-max",
+      "description": "iPhone 16 Pro Max với thiết kế mới, hiệu năng vượt trội và camera cải tiến.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Titan Sa Mạc",
+          "storage": "256GB",
+          "price": 34990000,
+          "images": [
+            "/uploads/products/1746608135420-6321827.jpeg",
+            "/uploads/products/1746608135421-74396815.jpeg",
+            "/uploads/products/1746608135424-78633933.jpeg",
+            "/uploads/products/1746608135426-5300301.jpeg",
+            "/uploads/products/1746608135428-94909587.jpeg",
+            "/uploads/products/1746608135432-42816478.jpeg"
+          ],
+          "stock": 47,
+          "sold": 3,
+          "_id": "681b2007b728e65023f2cda6"
+        },
+        {
+          "color": "Titan Tự Nhiên",
+          "storage": "512GB",
+          "price": 41990000,
+          "images": [
+            "/uploads/products/1746608135432-35220858.jpeg",
+            "/uploads/products/1746608135434-3574505.jpeg",
+            "/uploads/products/1746608135434-28075159.jpeg",
+            "/uploads/products/1746608135449-13311498.jpeg",
+            "/uploads/products/1746608135449-31123354.jpeg",
+            "/uploads/products/1746608135450-67537829.jpeg"
+          ],
+          "stock": 29,
+          "sold": 1,
+          "_id": "681b2007b728e65023f2cda7"
+        },
+        {
+          "color": "Titan Trắng",
+          "storage": "1TB",
+          "price": 48990000,
+          "images": [
+            "/uploads/products/1746608135451-33080336.jpeg",
+            "/uploads/products/1746608135453-21224937.jpeg",
+            "/uploads/products/1746608135453-41075349.jpeg",
+            "/uploads/products/1746608135457-46152319.jpeg",
+            "/uploads/products/1746608135458-15072682.jpeg",
+            "/uploads/products/1746608135458-2890102.jpeg"
+          ],
+          "stock": 20,
+          "sold": 0,
+          "_id": "681b2007b728e65023f2cda8"
+        },
+        {
+          "color": "Titan Đen",
+          "storage": "256GB",
+          "price": 30790000,
+          "images": [
+            "/uploads/products/1746608135460-78875850.jpeg",
+            "/uploads/products/1746608135460-47194596.jpeg",
+            "/uploads/products/1746608135479-33459602.jpeg",
+            "/uploads/products/1746608135484-71365101.jpeg",
+            "/uploads/products/1746608135485-50426606.jpeg",
+            "/uploads/products/1746608135486-21557092.jpeg"
+          ],
+          "stock": 15,
+          "sold": 0,
+          "_id": "681b2007b728e65023f2cda9"
+        }
+      ],
+      "specifications": {
+        "screen": "6.9 inch Super Retina XDR OLED, 120Hz",
+        "os": "iOS 18",
+        "cpu": "Apple A18 Pro",
+        "ram": "12GB",
+        "battery": "4500mAh, sạc nhanh 35W",
+        "camera": "Triple 48MP + 12MP + 12MP, camera trước 24MP"
+      },
+      "sold": 4,
+      "ratings": [],
+      "created_at": "2025-05-05T17:20:58.786000",
+      "updated_at": "2025-06-10T16:39:43.672000"
+    }
+  },
+  {
+    "text": "iPhone 16e - iPhone 16e là lựa chọn tiết kiệm với thiết kế hiện đại, hiệu năng ổn định và trải nghiệm iOS mượt mà. - Brand: Apple - Category: smartphone  Variant: Color: Đen - Storage: 64GB - Price: 14,990,000 VND - Stock: 60 - Sold: 0 Variant: Color: Trắng - Storage: 128GB - Price: 16,990,000 VND - Stock: 50 - Sold: 0  screen: 6.1 inch Retina IPS LCD - os: iOS 18 - cpu: Apple A17 - ram: 4GB - battery: 3200mAh, sạc nhanh 20W - camera: 12MP đơn, camera trước 12MP -",
+    "metadata": {
+      "id": "6818f3d3202a99f6ada1aa36",
+      "name": "iPhone 16e",
+      "slug": "iphone-16e",
+      "description": "iPhone 16e là lựa chọn tiết kiệm với thiết kế hiện đại, hiệu năng ổn định và trải nghiệm iOS mượt mà.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Đen",
+          "storage": "64GB",
+          "price": 14990000,
+          "images": [
+            "/uploads/products/1746608614710-34577731.jpeg",
+            "/uploads/products/1746608614710-25256919.jpeg",
+            "/uploads/products/1746608614710-73371072.jpeg",
+            "/uploads/products/1746608614710-2568054.jpeg",
+            "/uploads/products/1746608614710-77227192.jpeg",
+            "/uploads/products/1746608614715-23570990.jpeg",
+            "/uploads/products/1746608614715-16386387.jpeg"
+          ],
+          "stock": 60,
+          "sold": 0,
+          "_id": "681b21e6b728e65023f2d2cd"
+        },
+        {
+          "color": "Trắng",
+          "storage": "128GB",
+          "price": 16990000,
+          "images": [
+            "/uploads/products/1746608614716-62500652.jpeg",
+            "/uploads/products/1746608614717-79739561.jpeg",
+            "/uploads/products/1746608614717-51441370.jpeg",
+            "/uploads/products/1746608614718-17802123.jpeg",
+            "/uploads/products/1746608614718-47251413.jpeg",
+            "/uploads/products/1746608614718-6871679.jpeg",
+            "/uploads/products/1746608614718-1527326.jpeg"
+          ],
+          "stock": 50,
+          "sold": 0,
+          "_id": "681b21e6b728e65023f2d2ce"
+        }
+      ],
+      "specifications": {
+        "screen": "6.1 inch Retina IPS LCD",
+        "os": "iOS 18",
+        "cpu": "Apple A17",
+        "ram": "4GB",
+        "battery": "3200mAh, sạc nhanh 20W",
+        "camera": "12MP đơn, camera trước 12MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:22:27.428000",
+      "updated_at": "2025-05-07T09:03:34.761000"
+    }
+  },
+  {
+    "text": "iPhone 16 Plus - iPhone 16 Plus sở hữu màn hình lớn, pin bền bỉ và hiệu năng mạnh mẽ, lý tưởng cho giải trí và công việc. - Brand: Apple - Category: smartphone  Variant: Color: Xanh Dương - Storage: 128GB - Price: 24,990,000 VND - Stock: 39 - Sold: 1 Variant: Color: Hồng - Storage: 256GB - Price: 27,990,000 VND - Stock: 35 - Sold: 0 Variant: Color: Vàng - Storage: 512GB - Price: 32,990,000 VND - Stock: 25 - Sold: 0  screen: 6.7 inch Super Retina XDR OLED - os: iOS 18 - cpu: Apple A18 - ram: 6GB - battery: 4500mAh, sạc nhanh 27W - camera: Dual 48MP + 12MP, camera trước 12MP -",
+    "metadata": {
+      "id": "6818f413202a99f6ada1aa3b",
+      "name": "iPhone 16 Plus",
+      "slug": "iphone-16-plus",
+      "description": "iPhone 16 Plus sở hữu màn hình lớn, pin bền bỉ và hiệu năng mạnh mẽ, lý tưởng cho giải trí và công việc.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Xanh Dương",
+          "storage": "128GB",
+          "price": 24990000,
+          "images": [
+            "/uploads/products/1746609336268-84182981.jpeg",
+            "/uploads/products/1746609336269-67593040.jpeg",
+            "/uploads/products/1746609336270-11471979.jpeg",
+            "/uploads/products/1746609336273-99488965.jpeg",
+            "/uploads/products/1746609336274-72547904.jpeg",
+            "/uploads/products/1746609336274-51432261.jpeg",
+            "/uploads/products/1746609336275-49467697.jpeg",
+            "/uploads/products/1746609336276-49053102.jpeg",
+            "/uploads/products/1746609336290-95382451.jpeg",
+            "/uploads/products/1746609336292-88611357.jpeg",
+            "/uploads/products/1746609336292-11717144.jpeg",
+            "/uploads/products/1746609336295-87022261.jpeg",
+            "/uploads/products/1746609336296-37165482.jpeg",
+            "/uploads/products/1746609336296-31089911.jpeg"
+          ],
+          "stock": 39,
+          "sold": 1,
+          "_id": "681b24b8b728e65023f2d9dd"
+        },
+        {
+          "color": "Hồng",
+          "storage": "256GB",
+          "price": 27990000,
+          "images": [
+            "/uploads/products/1746609336297-87354705.jpeg",
+            "/uploads/products/1746609336297-89635365.jpeg",
+            "/uploads/products/1746609336297-84824346.jpeg",
+            "/uploads/products/1746609336298-99566576.jpeg",
+            "/uploads/products/1746609336298-52157528.jpeg",
+            "/uploads/products/1746609336298-76174589.jpeg",
+            "/uploads/products/1746609336301-24278515.jpeg",
+            "/uploads/products/1746609336302-74958363.jpeg",
+            "/uploads/products/1746609336303-97605484.jpeg",
+            "/uploads/products/1746609336303-43981447.jpeg",
+            "/uploads/products/1746609336305-47010874.jpeg",
+            "/uploads/products/1746609336305-95494317.jpeg",
+            "/uploads/products/1746609336306-12562366.jpeg",
+            "/uploads/products/1746609336307-2440808.jpeg"
+          ],
+          "stock": 35,
+          "sold": 0,
+          "_id": "681b24b8b728e65023f2d9de"
+        },
+        {
+          "color": "Vàng",
+          "storage": "512GB",
+          "price": 32990000,
+          "images": [
+            "/uploads/products/1746609336307-62315210.jpeg",
+            "/uploads/products/1746609336307-59531200.jpeg",
+            "/uploads/products/1746609336308-22973278.jpeg",
+            "/uploads/products/1746609336326-48362610.jpeg",
+            "/uploads/products/1746609336326-66879056.jpeg",
+            "/uploads/products/1746609336328-26740808.jpeg",
+            "/uploads/products/1746609336329-67415097.jpeg",
+            "/uploads/products/1746609336332-35061665.jpeg",
+            "/uploads/products/1746609336332-77998139.jpeg",
+            "/uploads/products/1746609336334-68639388.jpeg",
+            "/uploads/products/1746609336335-94591600.jpeg",
+            "/uploads/products/1746609336337-55577550.jpeg",
+            "/uploads/products/1746609336338-41202522.jpeg",
+            "/uploads/products/1746609336338-35492905.jpeg"
+          ],
+          "stock": 25,
+          "sold": 0,
+          "_id": "681b24b8b728e65023f2d9df"
+        }
+      ],
+      "specifications": {
+        "screen": "6.7 inch Super Retina XDR OLED",
+        "os": "iOS 18",
+        "cpu": "Apple A18",
+        "ram": "6GB",
+        "battery": "4500mAh, sạc nhanh 27W",
+        "camera": "Dual 48MP + 12MP, camera trước 12MP"
+      },
+      "sold": 1,
+      "ratings": [],
+      "created_at": "2025-05-05T17:23:31.881000",
+      "updated_at": "2025-06-04T06:22:46.498000"
+    }
+  },
+  {
+    "text": "iPhone 16 - iPhone 16 mang đến trải nghiệm mượt mà, thiết kế trẻ trung và hiệu năng mạnh mẽ với chip Apple A18. - Brand: Apple - Category: smartphone  Variant: Color: Đen - Storage: 128GB - Price: 21,990,000 VND - Stock: 50 - Sold: 0 Variant: Color: Xanh Lưu Ly - Storage: 256GB - Price: 24,990,000 VND - Stock: 44 - Sold: 1 Variant: Color: Trắng - Storage: 512GB - Price: 29,990,000 VND - Stock: 30 - Sold: 0  screen: 6.1 inch Super Retina XDR OLED - os: iOS 18 - cpu: Apple A18 - ram: 6GB - battery: 3900mAh, sạc nhanh 25W - camera: Dual 48MP + 12MP, camera trước 12MP -",
+    "metadata": {
+      "id": "6818f427202a99f6ada1aa40",
+      "name": "iPhone 16",
+      "slug": "iphone-16",
+      "description": "iPhone 16 mang đến trải nghiệm mượt mà, thiết kế trẻ trung và hiệu năng mạnh mẽ với chip Apple A18.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Đen",
+          "storage": "128GB",
+          "price": 21990000,
+          "images": [
+            "/uploads/products/1746609612645-2408721.jpeg",
+            "/uploads/products/1746609612647-13344007.jpeg"
+          ],
+          "stock": 50,
+          "sold": 0,
+          "_id": "681b25ccb728e65023f2dae6"
+        },
+        {
+          "color": "Xanh Lưu Ly",
+          "storage": "256GB",
+          "price": 24990000,
+          "images": [
+            "/uploads/products/1746609612647-18629539.jpeg",
+            "/uploads/products/1746609612649-81905852.jpeg"
+          ],
+          "stock": 44,
+          "sold": 1,
+          "_id": "681b25ccb728e65023f2dae7"
+        },
+        {
+          "color": "Trắng",
+          "storage": "512GB",
+          "price": 29990000,
+          "images": [
+            "/uploads/products/1746609612664-52872365.jpeg",
+            "/uploads/products/1746609612666-34188711.jpeg"
+          ],
+          "stock": 30,
+          "sold": 0,
+          "_id": "681b25ccb728e65023f2dae8"
+        }
+      ],
+      "specifications": {
+        "screen": "6.1 inch Super Retina XDR OLED",
+        "os": "iOS 18",
+        "cpu": "Apple A18",
+        "ram": "6GB",
+        "battery": "3900mAh, sạc nhanh 25W",
+        "camera": "Dual 48MP + 12MP, camera trước 12MP"
+      },
+      "sold": 1,
+      "ratings": [],
+      "created_at": "2025-05-05T17:23:51.005000",
+      "updated_at": "2025-06-04T06:18:26.477000"
+    }
+  },
+  {
+    "text": "iPhone 15 - iPhone 15 với thiết kế mới, cổng USB-C, camera cải tiến và hiệu năng ổn định từ chip Apple A16. - Brand: Apple - Category: smartphone  Variant: Color: Hồng - Storage: 128GB - Price: 18,990,000 VND - Stock: 60 - Sold: 0 Variant: Color: Xanh Dương - Storage: 256GB - Price: 21,990,000 VND - Stock: 40 - Sold: 0 Variant: Color: Vàng Nhạt - Storage: 512GB - Price: 25,990,000 VND - Stock: 30 - Sold: 0  screen: 6.1 inch Super Retina XDR OLED - os: iOS 17 - cpu: Apple A16 Bionic - ram: 6GB - battery: 3349mAh, sạc nhanh 20W - camera: Dual 48MP + 12MP, camera trước 12MP -",
+    "metadata": {
+      "id": "6818f45e202a99f6ada1aa5d",
+      "name": "iPhone 15",
+      "slug": "iphone-15",
+      "description": "iPhone 15 với thiết kế mới, cổng USB-C, camera cải tiến và hiệu năng ổn định từ chip Apple A16.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Hồng",
+          "storage": "128GB",
+          "price": 18990000,
+          "images": [
+            "/uploads/products/1746609847345-25326938.jpeg",
+            "/uploads/products/1746609847345-83809456.jpeg",
+            "/uploads/products/1746609847345-74303438.jpeg",
+            "/uploads/products/1746609847346-96577997.jpeg",
+            "/uploads/products/1746609847346-27906835.jpeg",
+            "/uploads/products/1746609847346-46036026.jpeg",
+            "/uploads/products/1746609847346-66074855.jpeg",
+            "/uploads/products/1746609847347-2561567.jpeg",
+            "/uploads/products/1746609847348-42839750.jpeg",
+            "/uploads/products/1746609847349-2509456.jpeg",
+            "/uploads/products/1746609847349-98698515.jpeg",
+            "/uploads/products/1746609847350-21119794.jpeg",
+            "/uploads/products/1746609847350-53506925.jpeg",
+            "/uploads/products/1746609847351-15853245.jpeg",
+            "/uploads/products/1746609847351-53666295.jpeg",
+            "/uploads/products/1746609847351-15583259.jpeg"
+          ],
+          "stock": 60,
+          "sold": 0,
+          "_id": "681b26b7b728e65023f2dc8a"
+        },
+        {
+          "color": "Xanh Dương",
+          "storage": "256GB",
+          "price": 21990000,
+          "images": [
+            "/uploads/products/1746609847352-86808710.jpeg",
+            "/uploads/products/1746609847352-72913506.jpeg",
+            "/uploads/products/1746609847352-30290987.jpeg",
+            "/uploads/products/1746609847352-40700800.jpeg",
+            "/uploads/products/1746609847353-36883836.jpeg",
+            "/uploads/products/1746609847354-75466525.jpeg",
+            "/uploads/products/1746609847355-84430507.jpeg",
+            "/uploads/products/1746609847356-92710804.jpeg",
+            "/uploads/products/1746609847357-42166797.jpeg",
+            "/uploads/products/1746609847358-46840774.jpeg",
+            "/uploads/products/1746609847359-38957909.jpeg",
+            "/uploads/products/1746609847359-62166670.jpeg",
+            "/uploads/products/1746609847359-30708500.jpeg",
+            "/uploads/products/1746609847360-229499.jpeg",
+            "/uploads/products/1746609847360-40516891.jpeg",
+            "/uploads/products/1746609847361-36776616.jpeg"
+          ],
+          "stock": 40,
+          "sold": 0,
+          "_id": "681b26b7b728e65023f2dc8b"
+        },
+        {
+          "color": "Vàng Nhạt",
+          "storage": "512GB",
+          "price": 25990000,
+          "images": [
+            "/uploads/products/1746609847362-36881940.jpeg",
+            "/uploads/products/1746609847363-79230270.jpeg",
+            "/uploads/products/1746609847363-88417845.jpeg",
+            "/uploads/products/1746609847363-33308952.jpeg",
+            "/uploads/products/1746609847364-39223072.jpeg",
+            "/uploads/products/1746609847364-76045655.jpeg",
+            "/uploads/products/1746609847366-20643634.jpeg",
+            "/uploads/products/1746609847367-73858932.jpeg",
+            "/uploads/products/1746609847367-96635132.jpeg",
+            "/uploads/products/1746609847368-89108558.jpeg",
+            "/uploads/products/1746609847368-94383500.jpeg",
+            "/uploads/products/1746609847369-79913745.jpeg",
+            "/uploads/products/1746609847369-19895184.jpeg",
+            "/uploads/products/1746609847370-58552878.jpeg"
+          ],
+          "stock": 30,
+          "sold": 0,
+          "_id": "681b26b7b728e65023f2dc8c"
+        }
+      ],
+      "specifications": {
+        "screen": "6.1 inch Super Retina XDR OLED",
+        "os": "iOS 17",
+        "cpu": "Apple A16 Bionic",
+        "ram": "6GB",
+        "battery": "3349mAh, sạc nhanh 20W",
+        "camera": "Dual 48MP + 12MP, camera trước 12MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:24:46.431000",
+      "updated_at": "2025-05-07T09:24:07.414000"
+    }
+  },
+  {
+    "text": "iPhone 15 Plus - iPhone 15 Plus với màn hình lớn 6.7 inch, pin bền bỉ và thiết kế trẻ trung, là lựa chọn lý tưởng cho người dùng giải trí và công việc. - Brand: Apple - Category: smartphone  Variant: Color: Hồng - Storage: 128GB - Price: 20,990,000 VND - Stock: 50 - Sold: 0 Variant: Color: Xanh Dương - Storage: 256GB - Price: 23,990,000 VND - Stock: 35 - Sold: 0 Variant: Color: Vàng Nhạt - Storage: 512GB - Price: 27,990,000 VND - Stock: 25 - Sold: 0  screen: 6.7 inch Super Retina XDR OLED - os: iOS 17 - cpu: Apple A16 Bionic - ram: 6GB - battery: 4383mAh, sạc nhanh 20W - camera: Dual 48MP + 12MP, camera trước 12MP -",
+    "metadata": {
+      "id": "6818f471202a99f6ada1aa62",
+      "name": "iPhone 15 Plus",
+      "slug": "iphone-15-plus",
+      "description": "iPhone 15 Plus với màn hình lớn 6.7 inch, pin bền bỉ và thiết kế trẻ trung, là lựa chọn lý tưởng cho người dùng giải trí và công việc.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Hồng",
+          "storage": "128GB",
+          "price": 20990000,
+          "images": [
+            "/uploads/products/1746610024835-13584750.jpeg",
+            "/uploads/products/1746610024836-41719652.jpeg",
+            "/uploads/products/1746610024836-46135905.jpeg",
+            "/uploads/products/1746610024836-21563210.jpeg",
+            "/uploads/products/1746610024837-61968360.jpeg",
+            "/uploads/products/1746610024838-15768855.jpeg",
+            "/uploads/products/1746610024839-67624474.jpeg",
+            "/uploads/products/1746610024840-25712987.jpeg",
+            "/uploads/products/1746610024840-82614138.jpeg",
+            "/uploads/products/1746610024841-61223006.jpeg",
+            "/uploads/products/1746610024842-21875202.jpeg",
+            "/uploads/products/1746610024842-87697874.jpeg",
+            "/uploads/products/1746610024843-15911244.jpeg",
+            "/uploads/products/1746610024843-77044439.jpeg",
+            "/uploads/products/1746610024844-29381855.jpeg",
+            "/uploads/products/1746610024844-96293300.jpeg",
+            "/uploads/products/1746610024844-42841766.jpeg",
+            "/uploads/products/1746610024846-2773506.jpeg"
+          ],
+          "stock": 50,
+          "sold": 0,
+          "_id": "681b2768b728e65023f2dd4d"
+        },
+        {
+          "color": "Xanh Dương",
+          "storage": "256GB",
+          "price": 23990000,
+          "images": [
+            "/uploads/products/1746610024846-19395951.jpeg",
+            "/uploads/products/1746610024847-94370064.jpeg",
+            "/uploads/products/1746610024847-6643018.jpeg",
+            "/uploads/products/1746610024848-28268964.jpeg",
+            "/uploads/products/1746610024848-93652542.jpeg",
+            "/uploads/products/1746610024849-33139407.jpeg",
+            "/uploads/products/1746610024849-86740975.jpeg",
+            "/uploads/products/1746610024849-68645669.jpeg",
+            "/uploads/products/1746610024849-56015360.jpeg",
+            "/uploads/products/1746610024851-83344327.jpeg",
+            "/uploads/products/1746610024851-26095117.jpeg",
+            "/uploads/products/1746610024851-39862691.jpeg",
+            "/uploads/products/1746610024852-43006280.jpeg",
+            "/uploads/products/1746610024853-70159098.jpeg",
+            "/uploads/products/1746610024854-29487986.jpeg",
+            "/uploads/products/1746610024856-41506774.jpeg"
+          ],
+          "stock": 35,
+          "sold": 0,
+          "_id": "681b2768b728e65023f2dd4e"
+        },
+        {
+          "color": "Vàng Nhạt",
+          "storage": "512GB",
+          "price": 27990000,
+          "images": [
+            "/uploads/products/1746610024858-39051786.jpeg",
+            "/uploads/products/1746610024858-5715895.jpeg",
+            "/uploads/products/1746610024860-87163647.jpeg",
+            "/uploads/products/1746610024861-61380521.jpeg",
+            "/uploads/products/1746610024861-14758544.jpeg",
+            "/uploads/products/1746610024861-99668053.jpeg",
+            "/uploads/products/1746610024862-33357460.jpeg",
+            "/uploads/products/1746610024863-47792122.jpeg",
+            "/uploads/products/1746610024863-46143416.jpeg",
+            "/uploads/products/1746610024864-44813769.jpeg",
+            "/uploads/products/1746610024864-73935469.jpeg",
+            "/uploads/products/1746610024864-97868838.jpeg",
+            "/uploads/products/1746610024864-50708064.jpeg",
+            "/uploads/products/1746610024866-3134291.jpeg",
+            "/uploads/products/1746610024866-70137265.jpeg"
+          ],
+          "stock": 25,
+          "sold": 0,
+          "_id": "681b2768b728e65023f2dd4f"
+        }
+      ],
+      "specifications": {
+        "screen": "6.7 inch Super Retina XDR OLED",
+        "os": "iOS 17",
+        "cpu": "Apple A16 Bionic",
+        "ram": "6GB",
+        "battery": "4383mAh, sạc nhanh 20W",
+        "camera": "Dual 48MP + 12MP, camera trước 12MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:25:05.830000",
+      "updated_at": "2025-05-07T09:27:04.926000"
+    }
+  },
+  {
+    "text": "iPhone 14 - iPhone 14 với thiết kế hiện đại, chip Apple A15 mạnh mẽ, camera cải tiến và trải nghiệm iOS mượt mà. - Brand: Apple - Category: smartphone  Variant: Color: Tím - Storage: 128GB - Price: 16,990,000 VND - Stock: 60 - Sold: 0 Variant: Color: Xanh Dương - Storage: 256GB - Price: 19,990,000 VND - Stock: 40 - Sold: 0 Variant: Color: Đen - Storage: 512GB - Price: 23,990,000 VND - Stock: 25 - Sold: 0  screen: 6.1 inch Super Retina XDR OLED - os: iOS 16 - cpu: Apple A15 Bionic - ram: 6GB - battery: 3279mAh, sạc nhanh 20W - camera: Dual 12MP + 12MP, camera trước 12MP -",
+    "metadata": {
+      "id": "6818f4af202a99f6ada1aa97",
+      "name": "iPhone 14",
+      "slug": "iphone-14",
+      "description": "iPhone 14 với thiết kế hiện đại, chip Apple A15 mạnh mẽ, camera cải tiến và trải nghiệm iOS mượt mà.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Tím",
+          "storage": "128GB",
+          "price": 16990000,
+          "images": [
+            "/uploads/products/1746610191277-34344266.jpeg",
+            "/uploads/products/1746610191277-43545645.jpeg",
+            "/uploads/products/1746610191288-87967465.jpeg",
+            "/uploads/products/1746610191290-8776040.jpeg",
+            "/uploads/products/1746610191293-26686521.jpeg",
+            "/uploads/products/1746610191294-38306882.jpeg"
+          ],
+          "stock": 60,
+          "sold": 0,
+          "_id": "681b280fb728e65023f2de0a"
+        },
+        {
+          "color": "Xanh Dương",
+          "storage": "256GB",
+          "price": 19990000,
+          "images": [
+            "/uploads/products/1746610191296-52330465.jpeg",
+            "/uploads/products/1746610191297-74621049.jpeg",
+            "/uploads/products/1746610191298-73978311.jpeg",
+            "/uploads/products/1746610191300-11343957.jpeg",
+            "/uploads/products/1746610191301-91350022.jpeg"
+          ],
+          "stock": 40,
+          "sold": 0,
+          "_id": "681b280fb728e65023f2de0b"
+        },
+        {
+          "color": "Đen",
+          "storage": "512GB",
+          "price": 23990000,
+          "images": [
+            "/uploads/products/1746610191304-55601066.jpeg",
+            "/uploads/products/1746610191305-37959504.jpeg",
+            "/uploads/products/1746610191307-49101037.jpeg",
+            "/uploads/products/1746610191308-87913215.jpeg"
+          ],
+          "stock": 25,
+          "sold": 0,
+          "_id": "681b280fb728e65023f2de0c"
+        }
+      ],
+      "specifications": {
+        "screen": "6.1 inch Super Retina XDR OLED",
+        "os": "iOS 16",
+        "cpu": "Apple A15 Bionic",
+        "ram": "6GB",
+        "battery": "3279mAh, sạc nhanh 20W",
+        "camera": "Dual 12MP + 12MP, camera trước 12MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:26:07.283000",
+      "updated_at": "2025-05-07T09:29:51.368000"
+    }
+  },
+  {
+    "text": "iPhone 14 Plus - iPhone 14 Plus sở hữu màn hình lớn 6.7 inch, hiệu năng mạnh mẽ với chip Apple A15 và thời lượng pin vượt trội. - Brand: Apple - Category: smartphone  Variant: Color: Đỏ - Storage: 128GB - Price: 18,990,000 VND - Stock: 50 - Sold: 0 Variant: Color: Tím - Storage: 256GB - Price: 21,990,000 VND - Stock: 35 - Sold: 0 Variant: Color: Trắng - Storage: 512GB - Price: 25,990,000 VND - Stock: 20 - Sold: 0  screen: 6.7 inch Super Retina XDR OLED - os: iOS 16 - cpu: Apple A15 Bionic - ram: 6GB - battery: 4325mAh, sạc nhanh 20W - camera: Dual 12MP + 12MP, camera trước 12MP -",
+    "metadata": {
+      "id": "6818f4ce202a99f6ada1aa9c",
+      "name": "iPhone 14 Plus",
+      "slug": "iphone-14-plus",
+      "description": "iPhone 14 Plus sở hữu màn hình lớn 6.7 inch, hiệu năng mạnh mẽ với chip Apple A15 và thời lượng pin vượt trội.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Đỏ",
+          "storage": "128GB",
+          "price": 18990000,
+          "images": [
+            "/uploads/products/1746610317284-47309385.jpeg",
+            "/uploads/products/1746610317285-28551826.jpeg",
+            "/uploads/products/1746610317290-24656320.jpeg",
+            "/uploads/products/1746610317290-46115767.jpeg",
+            "/uploads/products/1746610317303-98131188.jpeg",
+            "/uploads/products/1746610317303-7440324.jpeg"
+          ],
+          "stock": 50,
+          "sold": 0,
+          "_id": "681b288db728e65023f2ded2"
+        },
+        {
+          "color": "Tím",
+          "storage": "256GB",
+          "price": 21990000,
+          "images": [
+            "/uploads/products/1746610317305-12232219.jpeg",
+            "/uploads/products/1746610317305-63239880.jpeg",
+            "/uploads/products/1746610317307-59016038.jpeg",
+            "/uploads/products/1746610317308-74354142.jpeg",
+            "/uploads/products/1746610317308-20413714.jpeg"
+          ],
+          "stock": 35,
+          "sold": 0,
+          "_id": "681b288db728e65023f2ded3"
+        },
+        {
+          "color": "Trắng",
+          "storage": "512GB",
+          "price": 25990000,
+          "images": [
+            "/uploads/products/1746610317310-91031307.jpeg",
+            "/uploads/products/1746610317311-57367102.jpeg",
+            "/uploads/products/1746610317311-30686738.jpeg",
+            "/uploads/products/1746610317319-54057852.jpeg"
+          ],
+          "stock": 20,
+          "sold": 0,
+          "_id": "681b288db728e65023f2ded4"
+        }
+      ],
+      "specifications": {
+        "screen": "6.7 inch Super Retina XDR OLED",
+        "os": "iOS 16",
+        "cpu": "Apple A15 Bionic",
+        "ram": "6GB",
+        "battery": "4325mAh, sạc nhanh 20W",
+        "camera": "Dual 12MP + 12MP, camera trước 12MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:26:38.604000",
+      "updated_at": "2025-05-07T09:31:57.361000"
+    }
+  },
+  {
+    "text": "iPhone 13 - iPhone 13 với thiết kế tinh tế, chip Apple A15 Bionic mạnh mẽ và camera kép hỗ trợ chống rung cảm biến. - Brand: Apple - Category: smartphone  Variant: Color: Trắng - Storage: 128GB - Price: 15,990,000 VND - Stock: 70 - Sold: 0 Variant: Color: Đen - Storage: 512GB - Price: 22,990,000 VND - Stock: 25 - Sold: 0  screen: 6.1 inch Super Retina XDR OLED - os: iOS 15 - cpu: Apple A15 Bionic - ram: 4GB - battery: 3240mAh, sạc nhanh 20W - camera: Dual 12MP + 12MP, camera trước 12MP -",
+    "metadata": {
+      "id": "6818f506202a99f6ada1aaa1",
+      "name": "iPhone 13",
+      "slug": "iphone-13",
+      "description": "iPhone 13 với thiết kế tinh tế, chip Apple A15 Bionic mạnh mẽ và camera kép hỗ trợ chống rung cảm biến.",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Trắng",
+          "storage": "128GB",
+          "price": 15990000,
+          "images": [
+            "/uploads/products/1746610728598-72313069.jpeg",
+            "/uploads/products/1746610728600-62311527.jpeg"
+          ],
+          "stock": 70,
+          "sold": 0,
+          "_id": "681b2a28b728e65023f2e04b"
+        },
+        {
+          "color": "Đen",
+          "storage": "512GB",
+          "price": 22990000,
+          "images": [
+            "/uploads/products/1746610728606-73893268.jpeg",
+            "/uploads/products/1746610728607-32112830.jpeg"
+          ],
+          "stock": 25,
+          "sold": 0,
+          "_id": "681b2a28b728e65023f2e04c"
+        }
+      ],
+      "specifications": {
+        "screen": "6.1 inch Super Retina XDR OLED",
+        "os": "iOS 15",
+        "cpu": "Apple A15 Bionic",
+        "ram": "4GB",
+        "battery": "3240mAh, sạc nhanh 20W",
+        "camera": "Dual 12MP + 12MP, camera trước 12MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:27:34.117000",
+      "updated_at": "2025-05-07T09:38:48.662000"
+    }
+  },
+  {
+    "text": "Samsung S25 ULTRA - Samsung S25 ULTRA - flagship với màn hình siêu nét, camera đỉnh cao và hiệu năng vượt trội. - Brand: Samsung - Category: Smartphone  Variant: Color: Đen - Storage: 128GB - Price: 18,000,000 VND - Stock: 24 - Sold: 6 Variant: Color: Đen - Storage: 256GB - Price: 20,000,000 VND - Stock: 23 - Sold: 2 Variant: Color: Trắng - Storage: 256GB - Price: 20,000,000 VND - Stock: 20 - Sold: 0 Variant: Color: Trắng - Storage: 512GB - Price: 25,000,000 VND - Stock: 15 - Sold: 0 Variant: Color: Xanh - Storage: 256GB - Price: 20,000,000 VND - Stock: 10 - Sold: 0  screen: 6.8 inch, Dynamic AMOLED 2X, 120Hz - os: Android 13 - cpu: Exynos 2200 / Snapdragon 8 Gen 1 - ram: 12GB - battery: 5000mAh - camera: Chính 200MP, Phụ 12MP Ultra Wide, 10MP Telephoto -",
+    "metadata": {
+      "id": "6818f5cf202a99f6ada1aaf6",
+      "name": "Samsung S25 ULTRA",
+      "slug": "samsung-galaxy-s24-ultra",
+      "description": "Samsung S25 ULTRA - flagship với màn hình siêu nét, camera đỉnh cao và hiệu năng vượt trội.",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "variants": [
+        {
+          "color": "Đen",
+          "storage": "128GB",
+          "price": 18000000,
+          "images": [
+            "/uploads/products/1747574843016-57280049.jpeg",
+            "/uploads/products/1747574843018-58607625.jpeg",
+            "/uploads/products/1747574843018-79529521.jpeg",
+            "/uploads/products/1747574843021-68024873.jpeg",
+            "/uploads/products/1747574843023-66687963.jpeg",
+            "/uploads/products/1747574843023-49799889.jpeg",
+            "/uploads/products/1747574843024-80064846.jpeg",
+            "/uploads/products/1747574843026-12698037.jpeg"
+          ],
+          "stock": 24,
+          "sold": 6,
+          "_id": "6829e03b7a50dfac45fc9c5a"
+        },
+        {
+          "color": "Đen",
+          "storage": "256GB",
+          "price": 20000000,
+          "images": [
+            "/uploads/products/1747574843028-81787338.jpeg",
+            "/uploads/products/1747574843031-91964186.jpeg",
+            "/uploads/products/1747574843032-98665342.jpeg",
+            "/uploads/products/1747574843033-95729385.jpeg",
+            "/uploads/products/1747574843033-36147586.jpeg",
+            "/uploads/products/1747574843035-84909158.jpeg",
+            "/uploads/products/1747574843037-63835968.jpeg",
+            "/uploads/products/1747574843038-3589397.jpeg",
+            "/uploads/products/1747574843038-65633988.jpeg"
+          ],
+          "stock": 23,
+          "sold": 2,
+          "_id": "6829e03b7a50dfac45fc9c5b"
+        },
+        {
+          "color": "Trắng",
+          "storage": "256GB",
+          "price": 20000000,
+          "images": [
+            "/uploads/products/1747574843038-98450998.jpeg",
+            "/uploads/products/1747574843041-75700731.jpeg",
+            "/uploads/products/1747574843041-50954172.jpeg",
+            "/uploads/products/1747574843041-26260817.jpeg",
+            "/uploads/products/1747574843041-17801188.jpeg",
+            "/uploads/products/1747574843042-94669552.jpeg",
+            "/uploads/products/1747574843042-68893998.jpeg",
+            "/uploads/products/1747574843045-94238528.jpeg",
+            "/uploads/products/1747574843046-17639689.jpeg"
+          ],
+          "stock": 20,
+          "sold": 0,
+          "_id": "6829e03b7a50dfac45fc9c5c"
+        },
+        {
+          "color": "Trắng",
+          "storage": "512GB",
+          "price": 25000000,
+          "images": [
+            "/uploads/products/1747574843048-60741129.jpeg",
+            "/uploads/products/1747574843049-97971991.jpeg",
+            "/uploads/products/1747574843049-60434365.jpeg",
+            "/uploads/products/1747574843051-23679320.jpeg",
+            "/uploads/products/1747574843052-84561949.jpeg",
+            "/uploads/products/1747574843052-24834202.jpeg",
+            "/uploads/products/1747574843054-39138525.jpeg",
+            "/uploads/products/1747574843055-96536096.jpeg",
+            "/uploads/products/1747574843056-56434667.jpeg"
+          ],
+          "stock": 15,
+          "sold": 0,
+          "_id": "6829e03b7a50dfac45fc9c5d"
+        },
+        {
+          "color": "Xanh",
+          "storage": "256GB",
+          "price": 20000000,
+          "images": [
+            "/uploads/products/1747574843056-49374295.jpeg",
+            "/uploads/products/1747574843057-33419319.jpeg",
+            "/uploads/products/1747574843058-33820110.jpeg",
+            "/uploads/products/1747574843059-6302286.jpeg",
+            "/uploads/products/1747574843059-50033518.jpeg",
+            "/uploads/products/1747574843060-15469142.jpeg",
+            "/uploads/products/1747574843077-27922676.jpeg",
+            "/uploads/products/1747574843079-71650574.jpeg",
+            "/uploads/products/1747574843080-69724682.jpeg",
+            "/uploads/products/1747574843081-57855231.jpeg",
+            "/uploads/products/1747574843082-3691329.jpeg"
+          ],
+          "stock": 10,
+          "sold": 0,
+          "_id": "6829e03b7a50dfac45fc9c5e"
+        }
+      ],
+      "specifications": {
+        "screen": "6.8 inch, Dynamic AMOLED 2X, 120Hz",
+        "os": "Android 13",
+        "cpu": "Exynos 2200 / Snapdragon 8 Gen 1",
+        "ram": "12GB",
+        "battery": "5000mAh",
+        "camera": "Chính 200MP, Phụ 12MP Ultra Wide, 10MP Telephoto"
+      },
+      "sold": 8,
+      "ratings": [],
+      "created_at": "2025-05-05T17:30:55.283000",
+      "updated_at": "2025-06-05T13:52:07.501000"
+    }
+  },
+  {
+    "text": "Samsung S25 Plus - Samsung S25 Plus - trải nghiệm cao cấp với thiết kế mỏng nhẹ, hiệu năng ổn định và camera chất lượng. - Brand: Samsung - Category: Smartphone  Variant: Color: Đen - Storage: 128GB - Price: 16,000,000 VND - Stock: 30 - Sold: 0 Variant: Color: Đen - Storage: 256GB - Price: 18,000,000 VND - Stock: 20 - Sold: 0 Variant: Color: Tím - Storage: 256GB - Price: 18,000,000 VND - Stock: 15 - Sold: 0 Variant: Color: Xanh - Storage: 128GB - Price: 16,000,000 VND - Stock: 10 - Sold: 0  screen: 6.6 inch, Dynamic AMOLED 2X, 120Hz - os: Android 13 - cpu: Snapdragon 8 Gen 1 - ram: 8GB - battery: 4700mAh - camera: Chính 50MP, Phụ 12MP Ultra Wide, 10MP Telephoto -",
+    "metadata": {
+      "id": "6818f5eb202a99f6ada1aafd",
+      "name": "Samsung S25 Plus",
+      "slug": "samsung-galaxy-s23-ultra",
+      "description": "Samsung S25 Plus - trải nghiệm cao cấp với thiết kế mỏng nhẹ, hiệu năng ổn định và camera chất lượng.",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "variants": [
+        {
+          "color": "Đen",
+          "storage": "128GB",
+          "price": 16000000,
+          "images": [
+            "/uploads/products/1747575257894-2723903.jpeg",
+            "/uploads/products/1747575257894-83229015.jpeg",
+            "/uploads/products/1747575257895-53991774.jpeg",
+            "/uploads/products/1747575257895-71147905.jpeg",
+            "/uploads/products/1747575257895-22541475.jpeg",
+            "/uploads/products/1747575257896-55689823.jpeg"
+          ],
+          "stock": 30,
+          "sold": 0,
+          "_id": "6829e1d97a50dfac45fc9e33"
+        },
+        {
+          "color": "Đen",
+          "storage": "256GB",
+          "price": 18000000,
+          "images": [
+            "/uploads/products/1747575257896-97192696.jpeg",
+            "/uploads/products/1747575257899-8635132.jpeg",
+            "/uploads/products/1747575257900-25595518.jpeg",
+            "/uploads/products/1747575257900-55415747.jpeg",
+            "/uploads/products/1747575257902-82909918.jpeg",
+            "/uploads/products/1747575257902-91199632.jpeg"
+          ],
+          "stock": 20,
+          "sold": 0,
+          "_id": "6829e1d97a50dfac45fc9e34"
+        },
+        {
+          "color": "Tím",
+          "storage": "256GB",
+          "price": 18000000,
+          "images": [
+            "/uploads/products/1747575257903-83083223.jpeg",
+            "/uploads/products/1747575257904-79969870.jpeg",
+            "/uploads/products/1747575257904-79275319.jpeg",
+            "/uploads/products/1747575257905-48915320.jpeg",
+            "/uploads/products/1747575257906-68387497.jpeg",
+            "/uploads/products/1747575257908-82426612.jpeg"
+          ],
+          "stock": 15,
+          "sold": 0,
+          "_id": "6829e1d97a50dfac45fc9e35"
+        },
+        {
+          "color": "Xanh",
+          "storage": "128GB",
+          "price": 16000000,
+          "images": [
+            "/uploads/products/1747575257910-32404636.jpeg",
+            "/uploads/products/1747575257910-58973086.jpeg",
+            "/uploads/products/1747575257912-6562779.jpeg",
+            "/uploads/products/1747575257913-66457893.jpeg",
+            "/uploads/products/1747575257913-61196734.jpeg",
+            "/uploads/products/1747575257916-16668928.jpeg"
+          ],
+          "stock": 10,
+          "sold": 0,
+          "_id": "6829e1d97a50dfac45fc9e36"
+        }
+      ],
+      "specifications": {
+        "screen": "6.6 inch, Dynamic AMOLED 2X, 120Hz",
+        "os": "Android 13",
+        "cpu": "Snapdragon 8 Gen 1",
+        "ram": "8GB",
+        "battery": "4700mAh",
+        "camera": "Chính 50MP, Phụ 12MP Ultra Wide, 10MP Telephoto"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:31:23.638000",
+      "updated_at": "2025-05-18T13:34:17.960000"
+    }
+  },
+  {
+    "text": "Samsung Galaxy Z Flip6 12GB 256GB - Samsung Galaxy Z Flip6 - điện thoại gập cao cấp với thiết kế hiện đại, hiệu năng mạnh mẽ và màn hình linh hoạt. - Brand: Samsung - Category: Smartphone  Variant: Color: Tím - Storage: 256GB - Price: 25,990,000 VND - Stock: 37 - Sold: 0  screen: 6.7 inch Dynamic AMOLED 2X, 120Hz; phụ 3.4 inch Super AMOLED - os: Android 14 - cpu: Snapdragon 8 Gen 3 for Galaxy - ram: 12GB - battery: 3700mAh, sạc nhanh 25W - camera: Chính 12MP (Wide) + 12MP (Ultrawide), Selfie 10MP -",
+    "metadata": {
+      "id": "6818f62a202a99f6ada1ab0d",
+      "name": "Samsung Galaxy Z Flip6 12GB 256GB",
+      "slug": "samsung-galaxy-z-flip-5",
+      "description": "Samsung Galaxy Z Flip6 - điện thoại gập cao cấp với thiết kế hiện đại, hiệu năng mạnh mẽ và màn hình linh hoạt.",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "variants": [
+        {
+          "color": "Tím",
+          "storage": "256GB",
+          "price": 25990000,
+          "images": [
+            "/uploads/products/1747575521007-15773923.jpeg",
+            "/uploads/products/1747575521009-16440333.jpeg",
+            "/uploads/products/1747575521013-96094488.jpeg",
+            "/uploads/products/1747575521013-61244502.jpeg",
+            "/uploads/products/1747575521014-31781890.jpeg",
+            "/uploads/products/1747575521015-20090877.jpeg",
+            "/uploads/products/1747575521017-6597440.jpeg",
+            "/uploads/products/1747575521017-92427764.jpeg",
+            "/uploads/products/1747575521017-47792488.jpeg",
+            "/uploads/products/1747575521020-69740309.jpeg",
+            "/uploads/products/1747575521020-54112306.jpeg",
+            "/uploads/products/1747575521021-77396583.jpeg"
+          ],
+          "stock": 37,
+          "sold": 0,
+          "_id": "6829e2e17a50dfac45fc9f51"
+        }
+      ],
+      "specifications": {
+        "screen": "6.7 inch Dynamic AMOLED 2X, 120Hz; phụ 3.4 inch Super AMOLED",
+        "os": "Android 14",
+        "cpu": "Snapdragon 8 Gen 3 for Galaxy",
+        "ram": "12GB",
+        "battery": "3700mAh, sạc nhanh 25W",
+        "camera": "Chính 12MP (Wide) + 12MP (Ultrawide), Selfie 10MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:32:26.436000",
+      "updated_at": "2025-05-18T13:38:41.066000"
+    }
+  },
+  {
+    "text": "Samsung Galaxy Z Fold6 12GB 512GB - Samsung Galaxy Z Fold6 là điện thoại gập cao cấp với màn hình lớn, hiệu năng mạnh mẽ và thiết kế sang trọng, phù hợp cho cả công việc lẫn giải trí. - Brand: Samsung - Category: Smartphone  Variant: Color: Xám Titan - Storage: 512GB - Price: 44,990,000 VND - Stock: 20 - Sold: 0  screen: Chính 7.6 inch Dynamic AMOLED 2X, phụ 6.2 inch AMOLED, 120Hz - os: Android 14 - cpu: Snapdragon 8 Gen 3 for Galaxy - ram: 12GB - battery: 4400mAh, sạc nhanh 25W - camera: Chính: 50MP + 12MP + 10MP, Selfie: 10MP + 4MP ẩn -",
+    "metadata": {
+      "id": "6818f63c202a99f6ada1ab13",
+      "name": "Samsung Galaxy Z Fold6 12GB 512GB",
+      "slug": "samsung-galaxy-z-fold-5",
+      "description": "Samsung Galaxy Z Fold6 là điện thoại gập cao cấp với màn hình lớn, hiệu năng mạnh mẽ và thiết kế sang trọng, phù hợp cho cả công việc lẫn giải trí.",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "variants": [
+        {
+          "color": "Xám Titan",
+          "storage": "512GB",
+          "price": 44990000,
+          "images": [
+            "/uploads/products/1747575691963-1162008.jpeg",
+            "/uploads/products/1747575691964-24314450.jpeg",
+            "/uploads/products/1747575691965-82492541.jpeg",
+            "/uploads/products/1747575691965-59520428.jpeg",
+            "/uploads/products/1747575691966-85348183.jpeg",
+            "/uploads/products/1747575691966-70312940.jpeg",
+            "/uploads/products/1747575691969-92154377.jpeg",
+            "/uploads/products/1747575691969-50409303.jpeg"
+          ],
+          "stock": 20,
+          "sold": 0,
+          "_id": "6829e38c7a50dfac45fca0f1"
+        }
+      ],
+      "specifications": {
+        "screen": "Chính 7.6 inch Dynamic AMOLED 2X, phụ 6.2 inch AMOLED, 120Hz",
+        "os": "Android 14",
+        "cpu": "Snapdragon 8 Gen 3 for Galaxy",
+        "ram": "12GB",
+        "battery": "4400mAh, sạc nhanh 25W",
+        "camera": "Chính: 50MP + 12MP + 10MP, Selfie: 10MP + 4MP ẩn"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:32:44.543000",
+      "updated_at": "2025-05-18T13:41:32.017000"
+    }
+  },
+  {
+    "text": "Samsung Galaxy A56 5G 8GB 128GB - Samsung Galaxy A56 5G sở hữu hiệu năng ổn định, thiết kế trẻ trung, hỗ trợ 5G và pin bền bỉ, phù hợp cho người dùng phổ thông và học sinh sinh viên. - Brand: Samsung - Category: Smartphone  Variant: Color: Xanh Dương - Storage: 128GB - Price: 7,990,000 VND - Stock: 50 - Sold: 0 Variant: Color: Đen Graphite - Storage: 128GB - Price: 7,990,000 VND - Stock: 40 - Sold: 0  screen: 6.5 inch Super AMOLED, FHD+, 120Hz - os: Android 14 - cpu: Exynos 1380 - ram: 8GB - battery: 5000mAh, sạc nhanh 25W - camera: Chính: 50MP + 12MP + 5MP, Selfie: 32MP -",
+    "metadata": {
+      "id": "6818f670202a99f6ada1ab73",
+      "name": "Samsung Galaxy A56 5G 8GB 128GB",
+      "slug": "samsung-galaxy-a54-5g",
+      "description": "Samsung Galaxy A56 5G sở hữu hiệu năng ổn định, thiết kế trẻ trung, hỗ trợ 5G và pin bền bỉ, phù hợp cho người dùng phổ thông và học sinh sinh viên.",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "variants": [
+        {
+          "color": "Xanh Dương",
+          "storage": "128GB",
+          "price": 7990000,
+          "images": [
+            "/uploads/products/1747575859116-82103833.jpeg",
+            "/uploads/products/1747575859117-82335180.jpeg",
+            "/uploads/products/1747575859117-75166222.jpeg",
+            "/uploads/products/1747575859117-7156503.jpeg",
+            "/uploads/products/1747575859118-69507567.jpeg",
+            "/uploads/products/1747575859118-18352181.jpeg",
+            "/uploads/products/1747575859118-48555563.jpeg"
+          ],
+          "stock": 50,
+          "sold": 0,
+          "_id": "6829e4337a50dfac45fca1ab"
+        },
+        {
+          "color": "Đen Graphite",
+          "storage": "128GB",
+          "price": 7990000,
+          "images": [
+            "/uploads/products/1747575859118-74437939.jpeg",
+            "/uploads/products/1747575859119-87344373.jpeg",
+            "/uploads/products/1747575859119-52289603.jpeg",
+            "/uploads/products/1747575859119-75183565.jpeg",
+            "/uploads/products/1747575859119-75145477.jpeg",
+            "/uploads/products/1747575859122-57852442.jpeg",
+            "/uploads/products/1747575859122-265983.jpeg",
+            "/uploads/products/1747575859123-86197641.jpeg",
+            "/uploads/products/1747575859123-42377122.jpeg",
+            "/uploads/products/1747575859124-16053802.jpeg"
+          ],
+          "stock": 40,
+          "sold": 0,
+          "_id": "6829e4337a50dfac45fca1ac"
+        }
+      ],
+      "specifications": {
+        "screen": "6.5 inch Super AMOLED, FHD+, 120Hz",
+        "os": "Android 14",
+        "cpu": "Exynos 1380",
+        "ram": "8GB",
+        "battery": "5000mAh, sạc nhanh 25W",
+        "camera": "Chính: 50MP + 12MP + 5MP, Selfie: 32MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:33:36.630000",
+      "updated_at": "2025-05-18T13:44:19.170000"
+    }
+  },
+  {
+    "text": "iPad Pro M4 11 inch Wi-Fi - iPad Pro M4 với chip Apple M4 mạnh mẽ, màn hình Liquid Retina siêu sắc nét, thiết kế siêu mỏng và hỗ trợ Apple Pencil Pro – lý tưởng cho sáng tạo, công việc và giải trí. - Brand: Apple - Category: Tablet  Variant: Color: Silver - Storage: 256GB - Price: 25,990,000 VND - Stock: 30 - Sold: 0 Variant: Color: Space Black - Storage: 512GB - Price: 30,990,000 VND - Stock: 20 - Sold: 0 Variant: Color: Silver - Storage: 1TB - Price: 38,990,000 VND - Stock: 10 - Sold: 0  screen: 11 inch Liquid Retina, 120Hz ProMotion, True Tone - os: iPadOS 17 - cpu: Apple M4 - ram: 8GB/16GB tùy dung lượng - battery: 10 giờ lướt web - camera: Chính: 12MP, Selfie: 12MP Ultra Wide -",
+    "metadata": {
+      "id": "6818f6d6202a99f6ada1ac11",
+      "name": "iPad Pro M4 11 inch Wi-Fi",
+      "slug": "ipad-pro-12.9-inch-(2023)",
+      "description": "iPad Pro M4 với chip Apple M4 mạnh mẽ, màn hình Liquid Retina siêu sắc nét, thiết kế siêu mỏng và hỗ trợ Apple Pencil Pro – lý tưởng cho sáng tạo, công việc và giải trí.",
+      "category": "Tablet",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "price": 25990000,
+          "images": [
+            "/uploads/products/1747576029458-99646541.jpeg",
+            "/uploads/products/1747576029458-29833586.jpeg",
+            "/uploads/products/1747576029459-37631259.jpeg",
+            "/uploads/products/1747576029460-96785352.jpeg",
+            "/uploads/products/1747576029462-59317803.jpeg",
+            "/uploads/products/1747576029464-15595010.jpeg",
+            "/uploads/products/1747576029464-70440376.jpeg"
+          ],
+          "stock": 30,
+          "sold": 0,
+          "_id": "6829e4dd7a50dfac45fca2ca"
+        },
+        {
+          "color": "Space Black",
+          "storage": "512GB",
+          "price": 30990000,
+          "images": [
+            "/uploads/products/1747576029465-69134344.jpeg",
+            "/uploads/products/1747576029468-14734508.jpeg",
+            "/uploads/products/1747576029469-37571894.jpeg",
+            "/uploads/products/1747576029470-83162982.jpeg",
+            "/uploads/products/1747576029472-41675744.jpeg",
+            "/uploads/products/1747576029472-79928629.jpeg"
+          ],
+          "stock": 20,
+          "sold": 0,
+          "_id": "6829e4dd7a50dfac45fca2cb"
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "price": 38990000,
+          "images": [
+            "/uploads/products/1747576029472-39592418.jpeg",
+            "/uploads/products/1747576029475-69156457.jpeg",
+            "/uploads/products/1747576029476-33270412.jpeg",
+            "/uploads/products/1747576029476-78096224.jpeg"
+          ],
+          "stock": 10,
+          "sold": 0,
+          "_id": "6829e4dd7a50dfac45fca2cc"
+        }
+      ],
+      "specifications": {
+        "screen": "11 inch Liquid Retina, 120Hz ProMotion, True Tone",
+        "os": "iPadOS 17",
+        "cpu": "Apple M4",
+        "ram": "8GB/16GB tùy dung lượng",
+        "battery": "10 giờ lướt web",
+        "camera": "Chính: 12MP, Selfie: 12MP Ultra Wide"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:35:18.283000",
+      "updated_at": "2025-05-18T13:47:09.522000"
+    }
+  },
+  {
+    "text": "iPad Air M3 11 inch Wi-Fi - iPad Air M3 mang đến hiệu năng mạnh mẽ với chip Apple M3, thiết kế mỏng nhẹ, màn hình Liquid Retina sống động, lý tưởng cho học tập, làm việc và sáng tạo. - Brand: Apple - Category: Tablet  Variant: Color: Space Gray - Storage: 128GB - Price: 17,990,000 VND - Stock: 25 - Sold: 0 Variant: Color: Starlight - Storage: 256GB - Price: 20,490,000 VND - Stock: 20 - Sold: 0 Variant: Color: Blue - Storage: 512GB - Price: 24,490,000 VND - Stock: 10 - Sold: 0  screen: 11 inch Liquid Retina, 60Hz, True Tone - os: iPadOS 17 - cpu: Apple M3 - ram: 8GB - battery: Lên đến 10 giờ sử dụng - camera: Chính: 12MP, Selfie: 12MP Ultra Wide -",
+    "metadata": {
+      "id": "6818f6e7202a99f6ada1ac16",
+      "name": "iPad Air M3 11 inch Wi-Fi",
+      "slug": "ipad-air-m3-(2023)",
+      "description": "iPad Air M3 mang đến hiệu năng mạnh mẽ với chip Apple M3, thiết kế mỏng nhẹ, màn hình Liquid Retina sống động, lý tưởng cho học tập, làm việc và sáng tạo.",
+      "category": "Tablet",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Space Gray",
+          "storage": "128GB",
+          "price": 17990000,
+          "images": [
+            "/uploads/products/1747576380445-72246744.jpeg",
+            "/uploads/products/1747576380447-40702963.jpeg",
+            "/uploads/products/1747576380448-71505003.jpeg",
+            "/uploads/products/1747576380450-96136537.jpeg",
+            "/uploads/products/1747576380451-35591674.jpeg",
+            "/uploads/products/1747576380452-61420705.jpeg",
+            "/uploads/products/1747576380453-34084004.jpeg"
+          ],
+          "stock": 25,
+          "sold": 0,
+          "_id": "6829e63c7a50dfac45fca3de"
+        },
+        {
+          "color": "Starlight",
+          "storage": "256GB",
+          "price": 20490000,
+          "images": [
+            "/uploads/products/1747576380455-44608720.jpeg",
+            "/uploads/products/1747576380456-34348910.jpeg",
+            "/uploads/products/1747576380458-69451207.jpeg",
+            "/uploads/products/1747576380461-47837944.jpeg",
+            "/uploads/products/1747576380463-85780120.jpeg",
+            "/uploads/products/1747576380463-66430080.jpeg"
+          ],
+          "stock": 20,
+          "sold": 0,
+          "_id": "6829e63c7a50dfac45fca3df"
+        },
+        {
+          "color": "Blue",
+          "storage": "512GB",
+          "price": 24490000,
+          "images": [
+            "/uploads/products/1747576380465-19719484.jpeg",
+            "/uploads/products/1747576380467-8162183.jpeg",
+            "/uploads/products/1747576380469-57895990.jpeg",
+            "/uploads/products/1747576380471-98347383.jpeg"
+          ],
+          "stock": 10,
+          "sold": 0,
+          "_id": "6829e63c7a50dfac45fca3e0"
+        }
+      ],
+      "specifications": {
+        "screen": "11 inch Liquid Retina, 60Hz, True Tone",
+        "os": "iPadOS 17",
+        "cpu": "Apple M3",
+        "ram": "8GB",
+        "battery": "Lên đến 10 giờ sử dụng",
+        "camera": "Chính: 12MP, Selfie: 12MP Ultra Wide"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:35:35.341000",
+      "updated_at": "2025-05-18T13:53:00.568000"
+    }
+  },
+  {
+    "text": "iPad Gen 11 A16 (2023) - iPad Gen 11 A16 mang đến chip A16 Bionic, màn hình 10.9 inch Liquid Retina, và thời lượng pin lên đến 10 giờ sử dụng, giúp bạn làm việc hiệu quả mọi lúc, mọi nơi. - Brand: Apple - Category: tablet  Variant: Color: Bạc - Storage: 64GB - Price: 13,990,000 VND - Stock: 120 - Sold: 0 Variant: Color: Xanh Dương - Storage: 128GB - Price: 14,990,000 VND - Stock: 110 - Sold: 0  screen: 10.9-inch Liquid Retina - os: iPadOS 16 - cpu: Apple A16 Bionic - ram: 4GB - battery: 10 giờ sử dụng - camera: 12MP (chính), 12MP (siêu rộng) -",
+    "metadata": {
+      "id": "6818f6fa202a99f6ada1ac20",
+      "name": "iPad Gen 11 A16 (2023)",
+      "slug": "ipad-gen-11-a16-(2023)",
+      "description": "iPad Gen 11 A16 mang đến chip A16 Bionic, màn hình 10.9 inch Liquid Retina, và thời lượng pin lên đến 10 giờ sử dụng, giúp bạn làm việc hiệu quả mọi lúc, mọi nơi.",
+      "category": "tablet",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Bạc",
+          "storage": "64GB",
+          "price": 13990000,
+          "images": [],
+          "stock": 120,
+          "sold": 0,
+          "_id": "6818f6fa202a99f6ada1ac21"
+        },
+        {
+          "color": "Xanh Dương",
+          "storage": "128GB",
+          "price": 14990000,
+          "images": [],
+          "stock": 110,
+          "sold": 0,
+          "_id": "6818f6fa202a99f6ada1ac22"
+        }
+      ],
+      "specifications": {
+        "screen": "10.9-inch Liquid Retina",
+        "os": "iPadOS 16",
+        "cpu": "Apple A16 Bionic",
+        "ram": "4GB",
+        "battery": "10 giờ sử dụng",
+        "camera": "12MP (chính), 12MP (siêu rộng)"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:35:54.093000",
+      "updated_at": "2025-05-05T17:35:54.093000"
+    }
+  },
+  {
+    "text": "iPad mini 7 - iPad mini 7 với chip A17 Bionic mạnh mẽ, màn hình Liquid Retina 8.3 inch nhỏ gọn, hỗ trợ Apple Pencil Gen 2, lý tưởng cho công việc và giải trí di động. - Brand: Apple - Category: Tablet  Variant: Color: Space Gray - Storage: 64GB - Price: 13,990,000 VND - Stock: 25 - Sold: 0 Variant: Color: Starlight - Storage: 256GB - Price: 17,490,000 VND - Stock: 20 - Sold: 0 Variant: Color: Purple - Storage: 256GB - Price: 17,490,000 VND - Stock: 15 - Sold: 0  screen: 8.3 inch Liquid Retina, True Tone, 500 nits - os: iPadOS 17 - cpu: Apple A17 Bionic - ram: 4GB - battery: Lên đến 10 giờ sử dụng Wi-Fi - camera: Chính: 12MP, Selfie: 12MP Ultra Wide -",
+    "metadata": {
+      "id": "6818f720202a99f6ada1ac2a",
+      "name": "iPad mini 7",
+      "slug": "ipad-gen-9",
+      "description": "iPad mini 7 với chip A17 Bionic mạnh mẽ, màn hình Liquid Retina 8.3 inch nhỏ gọn, hỗ trợ Apple Pencil Gen 2, lý tưởng cho công việc và giải trí di động.",
+      "category": "Tablet",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "Space Gray",
+          "storage": "64GB",
+          "price": 13990000,
+          "images": [
+            "/uploads/products/1747576811145-37884048.jpeg",
+            "/uploads/products/1747576811148-60082493.jpeg",
+            "/uploads/products/1747576811151-84523047.jpeg",
+            "/uploads/products/1747576811151-41030861.jpeg",
+            "/uploads/products/1747576811153-80896586.jpeg",
+            "/uploads/products/1747576811156-9933230.jpeg",
+            "/uploads/products/1747576811156-49926479.jpeg",
+            "/uploads/products/1747576811159-17329422.jpeg",
+            "/uploads/products/1747576811163-91055509.jpeg"
+          ],
+          "stock": 25,
+          "sold": 0,
+          "_id": "6829e7eb7a50dfac45fca70a"
+        },
+        {
+          "color": "Starlight",
+          "storage": "256GB",
+          "price": 17490000,
+          "images": [
+            "/uploads/products/1747576811165-17276715.jpeg",
+            "/uploads/products/1747576811166-83096469.jpeg",
+            "/uploads/products/1747576811168-37435408.jpeg",
+            "/uploads/products/1747576811169-50607133.jpeg",
+            "/uploads/products/1747576811170-36720484.jpeg",
+            "/uploads/products/1747576811173-86880767.jpeg"
+          ],
+          "stock": 20,
+          "sold": 0,
+          "_id": "6829e7eb7a50dfac45fca70b"
+        },
+        {
+          "color": "Purple",
+          "storage": "256GB",
+          "price": 17490000,
+          "images": [
+            "/uploads/products/1747576811174-376206.jpeg",
+            "/uploads/products/1747576811175-87089586.jpeg",
+            "/uploads/products/1747576811177-96828856.jpeg",
+            "/uploads/products/1747576811178-60349961.jpeg",
+            "/uploads/products/1747576811179-77882643.jpeg",
+            "/uploads/products/1747576811180-54086599.jpeg",
+            "/uploads/products/1747576811181-93139679.jpeg"
+          ],
+          "stock": 15,
+          "sold": 0,
+          "_id": "6829e7eb7a50dfac45fca70c"
+        }
+      ],
+      "specifications": {
+        "screen": "8.3 inch Liquid Retina, True Tone, 500 nits",
+        "os": "iPadOS 17",
+        "cpu": "Apple A17 Bionic",
+        "ram": "4GB",
+        "battery": "Lên đến 10 giờ sử dụng Wi-Fi",
+        "camera": "Chính: 12MP, Selfie: 12MP Ultra Wide"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:36:32.008000",
+      "updated_at": "2025-05-18T14:00:11.230000"
+    }
+  },
+  {
+    "text": "HONOR X6b 6GB 128GB - HONOR X6b với thiết kế trẻ trung, hiệu năng ổn định nhờ chip Helio G85, RAM 6GB, bộ nhớ trong 128GB, pin 5200mAh cùng camera 50MP, là lựa chọn hoàn hảo trong phân khúc phổ thông. - Brand: HONOR - Category: Smartphone  Variant: Color: Xanh Biển Sâu - Storage: 128GB - Price: 3,290,000 VND - Stock: 50 - Sold: 0 Variant: Color: Đen Huyền Bí - Storage: 128GB - Price: 3,290,000 VND - Stock: 40 - Sold: 0  screen: 6.56 inch TFT LCD, HD+ (720 x 1612), 90Hz - os: Android 14, MagicOS 8.0 - cpu: MediaTek Helio G85 - ram: 6GB - battery: 5200mAh, sạc 22.5W - camera: Chính: 50MP + 2MP, Selfie: 5MP -",
+    "metadata": {
+      "id": "6818f974202a99f6ada1b23c",
+      "name": "HONOR X6b 6GB 128GB",
+      "slug": "honor-90",
+      "description": "HONOR X6b với thiết kế trẻ trung, hiệu năng ổn định nhờ chip Helio G85, RAM 6GB, bộ nhớ trong 128GB, pin 5200mAh cùng camera 50MP, là lựa chọn hoàn hảo trong phân khúc phổ thông.",
+      "category": "Smartphone",
+      "brand": "HONOR",
+      "variants": [
+        {
+          "color": "Xanh Biển Sâu",
+          "storage": "128GB",
+          "price": 3290000,
+          "images": [
+            "/uploads/products/1747578875207-32767179.jpeg",
+            "/uploads/products/1747578875208-79079538.jpeg",
+            "/uploads/products/1747578875208-7626635.jpeg",
+            "/uploads/products/1747578875208-92788198.jpeg",
+            "/uploads/products/1747578875209-6848954.jpeg",
+            "/uploads/products/1747578875211-27582058.jpeg",
+            "/uploads/products/1747578875213-55662284.jpeg",
+            "/uploads/products/1747578875215-35997481.jpeg"
+          ],
+          "stock": 50,
+          "sold": 0,
+          "_id": "6829effb7a50dfac45fcac57"
+        },
+        {
+          "color": "Đen Huyền Bí",
+          "storage": "128GB",
+          "price": 3290000,
+          "images": [
+            "/uploads/products/1747578875217-47923215.jpeg",
+            "/uploads/products/1747578875218-2808250.jpeg",
+            "/uploads/products/1747578875219-49833476.jpeg",
+            "/uploads/products/1747578875219-97570687.jpeg",
+            "/uploads/products/1747578875219-45899319.jpeg",
+            "/uploads/products/1747578875223-55609523.jpeg",
+            "/uploads/products/1747578875223-93412998.jpeg"
+          ],
+          "stock": 40,
+          "sold": 0,
+          "_id": "6829effb7a50dfac45fcac58"
+        }
+      ],
+      "specifications": {
+        "screen": "6.56 inch TFT LCD, HD+ (720 x 1612), 90Hz",
+        "os": "Android 14, MagicOS 8.0",
+        "cpu": "MediaTek Helio G85",
+        "ram": "6GB",
+        "battery": "5200mAh, sạc 22.5W",
+        "camera": "Chính: 50MP + 2MP, Selfie: 5MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:46:28.165000",
+      "updated_at": "2025-05-18T14:34:35.268000"
+    }
+  },
+  {
+    "text": "Realme C65s 8GB 256GB - Realme C65s với hiệu năng mạnh mẽ nhờ chip Unisoc T616, RAM 8GB, bộ nhớ 256GB, màn hình 6.67 inch 120Hz, pin 5000mAh kèm sạc nhanh 33W, là lựa chọn lý tưởng trong phân khúc giá rẻ. - Brand: Realme - Category: Smartphone  Variant: Color: Đen Ánh Sao - Storage: 256GB - Price: 4,290,000 VND - Stock: 100 - Sold: 0 Variant: Color: Xanh Ánh Trăng - Storage: 256GB - Price: 4,290,000 VND - Stock: 90 - Sold: 0  screen: 6.67 inch IPS LCD, HD+ (720 x 1604), 120Hz - os: Android 14, Realme UI - cpu: Unisoc T616 - ram: 8GB - battery: 5000mAh, sạc nhanh 33W - camera: Chính: 50MP, Selfie: 8MP -",
+    "metadata": {
+      "id": "6818f97c202a99f6ada1b241",
+      "name": "Realme C65s 8GB 256GB",
+      "slug": "realme-gt-2-pro",
+      "description": "Realme C65s với hiệu năng mạnh mẽ nhờ chip Unisoc T616, RAM 8GB, bộ nhớ 256GB, màn hình 6.67 inch 120Hz, pin 5000mAh kèm sạc nhanh 33W, là lựa chọn lý tưởng trong phân khúc giá rẻ.",
+      "category": "Smartphone",
+      "brand": "Realme",
+      "variants": [
+        {
+          "color": "Đen Ánh Sao",
+          "storage": "256GB",
+          "price": 4290000,
+          "images": [
+            "/uploads/products/1747579308127-73084698.jpeg",
+            "/uploads/products/1747579308130-98786302.jpeg",
+            "/uploads/products/1747579308131-14182155.jpeg",
+            "/uploads/products/1747579308135-11882648.jpeg",
+            "/uploads/products/1747579308137-63002462.jpeg",
+            "/uploads/products/1747579308138-36208306.jpeg",
+            "/uploads/products/1747579308140-89239431.jpeg",
+            "/uploads/products/1747579308142-82425647.jpeg",
+            "/uploads/products/1747579308144-70687598.jpeg",
+            "/uploads/products/1747579308146-6845181.jpeg"
+          ],
+          "stock": 100,
+          "sold": 0,
+          "_id": "6829f1ac7a50dfac45fcadcf"
+        },
+        {
+          "color": "Xanh Ánh Trăng",
+          "storage": "256GB",
+          "price": 4290000,
+          "images": [
+            "/uploads/products/1747579308150-42062053.jpeg",
+            "/uploads/products/1747579308152-2093583.jpeg",
+            "/uploads/products/1747579308154-83752092.jpeg",
+            "/uploads/products/1747579308155-57464316.jpeg",
+            "/uploads/products/1747579308157-40852071.jpeg",
+            "/uploads/products/1747579308159-46755129.jpeg",
+            "/uploads/products/1747579308161-42675548.jpeg",
+            "/uploads/products/1747579308162-83263096.jpeg",
+            "/uploads/products/1747579308164-908180.jpeg"
+          ],
+          "stock": 90,
+          "sold": 0,
+          "_id": "6829f1ac7a50dfac45fcadd0"
+        }
+      ],
+      "specifications": {
+        "screen": "6.67 inch IPS LCD, HD+ (720 x 1604), 120Hz",
+        "os": "Android 14, Realme UI",
+        "cpu": "Unisoc T616",
+        "ram": "8GB",
+        "battery": "5000mAh, sạc nhanh 33W",
+        "camera": "Chính: 50MP, Selfie: 8MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:46:36.033000",
+      "updated_at": "2025-05-18T14:41:48.218000"
+    }
+  },
+  {
+    "text": "Itel it9211 - Điện thoại Itel it9211 với thiết kế nhỏ gọn, pin bền bỉ, phù hợp cho nhu cầu cơ bản và gọi điện, nhắn tin hiệu quả. - Brand: Itel - Category: Điện thoại phổ thông  Variant: Color: Xanh Dương - Storage: 8GB - Price: 850,000 VND - Stock: 150 - Sold: 0  screen: 2.8 inch QVGA - os: Feature OS - cpu: Không rõ - ram: 8GB - battery: 1200mAh - camera: Chính: 0.3MP, Selfie: Không có -",
+    "metadata": {
+      "id": "6818f98e202a99f6ada1b246",
+      "name": "Itel it9211",
+      "slug": "itel-vision-2-plus",
+      "description": "Điện thoại Itel it9211 với thiết kế nhỏ gọn, pin bền bỉ, phù hợp cho nhu cầu cơ bản và gọi điện, nhắn tin hiệu quả.",
+      "category": "Điện thoại phổ thông",
+      "brand": "Itel",
+      "variants": [
+        {
+          "color": "Xanh Dương",
+          "storage": "8GB",
+          "price": 850000,
+          "images": [
+            "/uploads/products/1747579466686-15218304.jpeg",
+            "/uploads/products/1747579466686-87481784.jpeg",
+            "/uploads/products/1747579466688-78461971.jpeg",
+            "/uploads/products/1747579466689-99203609.jpeg",
+            "/uploads/products/1747579466689-59059961.jpeg"
+          ],
+          "stock": 150,
+          "sold": 0,
+          "_id": "6829f24a7a50dfac45fcae6b"
+        }
+      ],
+      "specifications": {
+        "screen": "2.8 inch QVGA",
+        "os": "Feature OS",
+        "cpu": "Không rõ",
+        "ram": "8GB",
+        "battery": "1200mAh",
+        "camera": "Chính: 0.3MP, Selfie: Không có"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:46:54.819000",
+      "updated_at": "2025-05-18T14:44:26.734000"
+    }
+  },
+  {
+    "text": "Itel it9211 - Điện thoại Itel it9211 với thiết kế nhỏ gọn, pin bền bỉ, phù hợp cho nhu cầu cơ bản và gọi điện, nhắn tin hiệu quả. - Brand: Itel - Category: Điện thoại phổ thông  Variant: Color: Xanh Dương - Storage: 8GB - Price: 850,000 VND - Stock: 150 - Sold: 0  screen: 2.8 inch QVGA - os: Feature OS - cpu: Không rõ - ram: 8GB - battery: 1200mAh - camera: Chính: 0.3MP, Selfie: Không có -",
+    "metadata": {
+      "id": "6818f995202a99f6ada1b24b",
+      "name": "Itel it9211",
+      "slug": "nokia-g50",
+      "description": "Điện thoại Itel it9211 với thiết kế nhỏ gọn, pin bền bỉ, phù hợp cho nhu cầu cơ bản và gọi điện, nhắn tin hiệu quả.",
+      "category": "Điện thoại phổ thông",
+      "brand": "Itel",
+      "variants": [
+        {
+          "color": "Xanh Dương",
+          "storage": "8GB",
+          "price": 850000,
+          "images": [
+            "/uploads/products/1747579586139-21959666.jpeg",
+            "/uploads/products/1747579586141-34095501.jpeg",
+            "/uploads/products/1747579586141-70540045.jpeg",
+            "/uploads/products/1747579586143-15192088.jpeg",
+            "/uploads/products/1747579586144-74090041.jpeg"
+          ],
+          "stock": 150,
+          "sold": 0,
+          "_id": "6829f2c27a50dfac45fcaf8f"
+        }
+      ],
+      "specifications": {
+        "screen": "2.8 inch QVGA",
+        "os": "Feature OS",
+        "cpu": "Không rõ",
+        "ram": "8GB",
+        "battery": "1200mAh",
+        "camera": "Chính: 0.3MP, Selfie: Không có"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:47:01.290000",
+      "updated_at": "2025-05-18T14:46:26.188000"
+    }
+  },
+  {
+    "text": "Nokia HMD 105 4G - Nokia HMD 105 4G là điện thoại phổ thông hỗ trợ mạng 4G, pin lâu, thiết kế nhỏ gọn, phù hợp người dùng cần điện thoại cơ bản với khả năng kết nối hiện đại. - Brand: Nokia - Category: Điện thoại phổ thông  Variant: Color: Đen - Storage: 8GB - Price: 950,000 VND - Stock: 100 - Sold: 0  screen: 1.77 inch QQVGA - os: Feature OS - cpu: Không rõ - ram: Không có - battery: 800mAh - camera: VGA -",
+    "metadata": {
+      "id": "6818fb38202a99f6ada1b896",
+      "name": "Nokia HMD 105 4G",
+      "slug": "xiaomi-13t-pro",
+      "description": "Nokia HMD 105 4G là điện thoại phổ thông hỗ trợ mạng 4G, pin lâu, thiết kế nhỏ gọn, phù hợp người dùng cần điện thoại cơ bản với khả năng kết nối hiện đại.",
+      "category": "Điện thoại phổ thông",
+      "brand": "Nokia",
+      "variants": [
+        {
+          "color": "Đen",
+          "storage": "8GB",
+          "price": 950000,
+          "images": [
+            "/uploads/products/1747579738232-81768110.jpeg",
+            "/uploads/products/1747579738232-32644429.jpeg",
+            "/uploads/products/1747579738232-6250972.jpeg"
+          ],
+          "stock": 100,
+          "sold": 0,
+          "_id": "6829f35a7a50dfac45fcafe7"
+        }
+      ],
+      "specifications": {
+        "screen": "1.77 inch QQVGA",
+        "os": "Feature OS",
+        "cpu": "Không rõ",
+        "ram": "Không có",
+        "battery": "800mAh",
+        "camera": "VGA"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T17:54:00.118000",
+      "updated_at": "2025-05-18T14:48:58.278000"
+    }
+  },
+  {
+    "text": "Nokia 220 4G - Nokia 220 4G là điện thoại phổ thông hỗ trợ kết nối 4G, thiết kế bền bỉ với pin lâu dài và các tính năng cơ bản phù hợp người dùng cần điện thoại gọi, nhắn tin đơn giản. - Brand: DienThoai - Category: Điện thoại phổ thông  Variant: Color: Đen - Storage: 16MB - Price: 1,100,000 VND - Stock: 130 - Sold: 0 Variant: Color: Xanh Dương - Storage: 16MB - Price: 1,100,000 VND - Stock: 80 - Sold: 0  screen: 2.4 inch QVGA - os: Feature OS - cpu: Không rõ - ram: Không có - battery: 1200mAh - camera: VGA -",
+    "metadata": {
+      "id": "681921d37ea2795e6cdb9c24",
+      "name": "Nokia 220 4G",
+      "slug": "oppo-find-x7",
+      "description": "Nokia 220 4G là điện thoại phổ thông hỗ trợ kết nối 4G, thiết kế bền bỉ với pin lâu dài và các tính năng cơ bản phù hợp người dùng cần điện thoại gọi, nhắn tin đơn giản.",
+      "category": "Điện thoại phổ thông",
+      "brand": "DienThoai",
+      "variants": [
+        {
+          "color": "Đen",
+          "storage": "16MB",
+          "price": 1100000,
+          "images": [
+            "/uploads/products/1748929131691-36609556.jpeg",
+            "/uploads/products/1748929131692-24445317.jpeg",
+            "/uploads/products/1748929131692-35454848.jpeg",
+            "/uploads/products/1748929131693-42663956.jpeg"
+          ],
+          "stock": 130,
+          "sold": 0,
+          "_id": "683e8a6b2866d79061bcc76c"
+        },
+        {
+          "color": "Xanh Dương",
+          "storage": "16MB",
+          "price": 1100000,
+          "images": [
+            "/uploads/products/1748929131696-87903128.jpeg",
+            "/uploads/products/1748929131696-31879745.jpeg",
+            "/uploads/products/1748929131698-87010960.jpeg"
+          ],
+          "stock": 80,
+          "sold": 0,
+          "_id": "683e8a6b2866d79061bcc76d"
+        }
+      ],
+      "specifications": {
+        "screen": "2.4 inch QVGA",
+        "os": "Feature OS",
+        "cpu": "Không rõ",
+        "ram": "Không có",
+        "battery": "1200mAh",
+        "camera": "VGA"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-05-05T20:38:43.635000",
+      "updated_at": "2025-06-03T05:38:51.745000"
+    }
+  },
+  {
+    "text": "iphone - Máy mới fullbox 100% - Chưa Active - Chính hãng Apple. Minh Tuấn Mobile hiện là đại lý uỷ quyền chính thức của Apple tại Việt Nam  Được hỗ trợ 1 đổi 1 trong 30 ngày nếu có lỗi từ nhà sản xuất. Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple  Bộ sản phẩm gồm: máy, sách hướng dẫn, cây lấy sim, cáp sạc - Brand: Apple - Category: smartphone  Variant: Color: trang - Storage: 128gb - Price: 10,000 VND - Stock: 12 - Sold: 0  screen: 6.7 inch Super Retina XDR OLED - os: iOS 16 - cpu: Apple A16 Bionic - ram: 6GB - battery: 1200mAh - camera: 48MP + 12MP + 12MP -",
+    "metadata": {
+      "id": "6841c7c34b4a5583901d2a78",
+      "name": "iphone",
+      "slug": "iphone",
+      "description": "Máy mới fullbox 100% - Chưa Active - Chính hãng Apple. Minh Tuấn Mobile hiện là đại lý uỷ quyền chính thức của Apple tại Việt Nam  Được hỗ trợ 1 đổi 1 trong 30 ngày nếu có lỗi từ nhà sản xuất. Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple  Bộ sản phẩm gồm: máy, sách hướng dẫn, cây lấy sim, cáp sạc",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "trang",
+          "storage": "128gb",
+          "price": 10000,
+          "images": [],
+          "stock": 12,
+          "sold": 0,
+          "_id": "6841c7c34b4a5583901d2a79"
+        }
+      ],
+      "specifications": {
+        "screen": "6.7 inch Super Retina XDR OLED",
+        "os": "iOS 16",
+        "cpu": "Apple A16 Bionic",
+        "ram": "6GB",
+        "battery": "1200mAh",
+        "camera": "48MP + 12MP + 12MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-06-05T16:37:23.124000",
+      "updated_at": "2025-06-05T16:37:23.124000"
+    }
+  },
+  {
+    "text": "Nguyen Thanh Qui - Flagship của Apple với hiệu năng mạnh mẽ và camera tuyệt vời - Brand: Apple - Category: smartphone  Variant: Color: trang  - Storage: 12gb - Price: 123 VND - Stock: 12 - Sold: 0  screen: 6.7 inch Super Retina XDR OLED - os: iOS 16 - cpu: 2323 - ram: 6GB - battery: 4323mAh - camera: 48MP + 12MP + 12MP -",
+    "metadata": {
+      "id": "68457916a9f7ba6fa18fce3a",
+      "name": "Nguyen Thanh Qui",
+      "slug": "nguyen-thanh-qui",
+      "description": "Flagship của Apple với hiệu năng mạnh mẽ và camera tuyệt vời",
+      "category": "smartphone",
+      "brand": "Apple",
+      "variants": [
+        {
+          "color": "trang ",
+          "storage": "12gb",
+          "price": 123,
+          "importPrice": 11,
+          "images": [
+            "240816094831-nokia-220.jpg",
+            "240816094831-nokia-2201.jpg",
+            "240816094845-nokia-2202.jpg"
+          ],
+          "stock": 12,
+          "sold": 0,
+          "_id": "6845837aa7397f47bf70a5a6"
+        }
+      ],
+      "specifications": {
+        "screen": "6.7 inch Super Retina XDR OLED",
+        "os": "iOS 16",
+        "cpu": "2323",
+        "ram": "6GB",
+        "battery": "4323mAh",
+        "camera": "48MP + 12MP + 12MP"
+      },
+      "sold": 0,
+      "ratings": [],
+      "created_at": "2025-06-08T11:50:46.201000",
+      "updated_at": "2025-06-08T12:35:06.499000"
+    }
+  }
+]
