@@ -45,8 +45,7 @@ npm install
 npm run start
 
 🖼️ Giao diện hệ thống
-- ## 🖼️ Giao diện Trang chủ  
-https://raw.githubusercontent.com/Quivij/nguyenthanhqui/main/frontend/public/images/home.png
+![Trang chủ](https://raw.githubusercontent.com/Quivij/nguyenthanhqui/main/frontend/public/images/home.png)
 
 - ## 🏠 Giao diện Trang quản trị (Admin Tổng quan)  
 - ![Admin Tổng Quan](https://raw.githubusercontent.com/Quivij/nguyenthanhqui/main/frontend/public/images/admin-tong-quan.png)
