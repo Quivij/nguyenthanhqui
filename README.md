@@ -93,7 +93,7 @@ npm run start
 ✅ Giao diện đẹp, tối ưu mobile, phản hồi nhanh
 
 👨‍💻 Thành viên thực hiện
-Tên	Vai trò
-Nguyễn Thanh Qui	UI/UX, Quản lý đơn hàng, sản phẩm
-Bàn Văn Huy	Fullstack, AI, Authentication
+Tên               	Vai trò
+Nguyễn Thanh Qui	  UI/UX, Quản lý đơn hàng, sản phẩm
+Bàn Văn Huy	        Fullstack, AI, Authentication
 
