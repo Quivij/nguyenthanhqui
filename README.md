@@ -1,1 +1,5 @@
-# nguyenthanhqui
+# 👋 Xin chào, mình là Nguyễn Thanh Qui
+- 💻 Sinh viên ngành Công nghệ Thông tin
+- 🔧 Kỹ năng: Java, Python, HTML/CSS, React, SQL,...
+- 📦 Công cụ: VSCode, Git, Postman, Figma,...
+- 📚 Dự án: Website bán hàng
