@@ -42,7 +42,7 @@ npm run dev
 # 3. Cài đặt backend
 cd ../backend
 npm install
-npm run dev
+npm run start
 
 🖼️ Giao diện hệ thống
 - ## 🖼️ Giao diện Trang chủ  
@@ -92,6 +92,8 @@ npm run dev
 
 ✅ Giao diện đẹp, tối ưu mobile, phản hồi nhanh
 
-✨ Thành viên thực hiện
-👨‍💻 Nguyễn Thanh Qui-Bàn Văn Huy
+👨‍💻 Thành viên thực hiện
+Tên	Vai trò
+Nguyễn Thanh Qui	UI/UX, Quản lý đơn hàng, sản phẩm
+Bàn Văn Huy	Fullstack, AI, Authentication
 
