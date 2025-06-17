@@ -6,6 +6,9 @@
 ## Tên dự án: Quản lý cửa hàng điện thoại
 - 🔧 Công nghệ: ReactJS, Node.js, MongoDB
 - ✨ Tính năng: Đăng nhập, quản lý sản phẩm, đơn hàng,...
-- 📸 Hình ảnh: ![Trang chủ](./frontend/public/images/home.png)
+- 📸 Hình ảnh:
+- ## 🖼️ Giao diện Trang chủ
+-  ![Trang chủ](./frontend/public/images/home.png)
+-  ## 🔐 Giao diện Đăng nhập
 
 - 📄 Hướng dẫn chạy: npm install && npm start
