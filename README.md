@@ -1,48 +1,49 @@
-# 👋 Xin chào, mình là Nguyễn Thanh Qui
-- 💻 Sinh viên ngành Công nghệ Thông tin
-- 🔧 Kỹ năng: Java, Python, HTML/CSS, React, SQL,...
-- 📦 Công cụ: VSCode, Git, Postman, Figma,...
-- 📚 Dự án: Website bán hàng
-## Tên dự án: Quản lý cửa hàng điện thoại
-🔥 Mô tả
-Website bán smartphone đầy đủ tính năng: quản lý sản phẩm, đơn hàng, thanh toán, mã giảm giá, chatbot tư vấn, đăng nhập với Google/Facebook và phân quyền Admin/User.
+# 👋 Xin chào, mình là **Nguyễn Thanh Qui**
 
-🛠️ Công nghệ sử dụng
-Frontend: ReactJS + Vite + TailwindCSS
+- 💻 Sinh viên ngành **Công nghệ Thông tin**
+- 🔧 **Kỹ năng**: Java, Python, HTML/CSS, React, SQL,...
+- 🧰 **Công cụ**: VSCode, Git, Postman, Figma,...
+- 📚 **Dự án tiêu biểu**: Website quản lý cửa hàng điện thoại
 
-Backend: Node.js + Express
+---
 
-Database: MongoDB + Mongoose
+## 📱 Tên dự án: **Quản lý cửa hàng điện thoại**
 
-Xác thực: JWT, Google OAuth 2.0, Facebook Login
+### 🔥 Mô tả
+Website bán smartphone với đầy đủ tính năng: quản lý sản phẩm, đơn hàng, thanh toán, mã giảm giá, chatbot AI, đăng nhập Google/Facebook, phân quyền Admin/User, responsive UI,...
 
-Quản trị: Phân quyền Admin / User
+---
 
-AI Chatbot: Gemini API + FAISS (tư vấn mua hàng)
+## 🛠️ Công nghệ sử dụng
 
-Dev Tools: Postman, GitHub, VSCode
+| Layer | Tech stack |
+|-------|------------|
+| **Frontend** | ReactJS + Vite + TailwindCSS |
+| **Backend** | Node.js + Express |
+| **Database** | MongoDB + Mongoose |
+| **Xác thực** | JWT, Google OAuth 2.0, Facebook Login |
+| **AI Chatbot** | Gemini API + FAISS |
+| **Dev Tools** | Postman, GitHub, VSCode |
 
-🚀 Hướng dẫn chạy dự án
-1. Clone project
-bash
-Sao chép
-Chỉnh sửa
+---
+
+## 🚀 Hướng dẫn chạy dự án
+
+```bash
+# 1. Clone project
 git clone https://github.com/Quivij/nguyenthanhqui.git
 cd nguyenthanhqui
-2. Cài đặt frontend
-bash
-Sao chép
-Chỉnh sửa
+
+# 2. Cài đặt frontend
 cd frontend
 npm install
 npm run dev
-3. Cài đặt backend
-bash
-Sao chép
-Chỉnh sửa
+
+# 3. Cài đặt backend
 cd ../backend
 npm install
 npm run dev
+
 🖼️ Giao diện hệ thống
 - ## 🖼️ Giao diện Trang chủ  
 - ![Trang chủ](https://raw.githubusercontent.com/Quivij/nguyenthanhqui/main/frontend/public/images/home.png)
